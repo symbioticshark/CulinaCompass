@@ -1,5 +1,7 @@
 # CulinaCompass SG
 
+Repository: https://github.com/symbioticshark/CulinaCompass
+
 A command-line agent that rebuilds South Indian home dishes for Singapore: what you can buy (graded Confirmed / Likely / Difficult / Unknown, with the retailer listing and date behind every grade), what to substitute, which utensils to use, and what it costs.
 
 It is stdlib-only Python 3.10+. The LLM runs through OpenRouter. The key is read from `culinacompass.env`, looked up in the current folder, then the project folder, then `~/.culinacompass.env`; environment variables override it, and the file is git-ignored. `--offline` uses the rule-based planner instead.
