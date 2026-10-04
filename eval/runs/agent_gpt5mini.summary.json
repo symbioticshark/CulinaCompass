@@ -1,0 +1,19 @@
+{
+  "scenarios": 32,
+  "constraint_adherence": 1.0,
+  "dish_fidelity": 0.969,
+  "task_success": 0.969,
+  "substitution_acceptability": 0.931,
+  "substitutions_proposed": 30,
+  "substitutions_unjudged": 1,
+  "flag_recall": 1.0,
+  "availability_overclaims": 0,
+  "false_alarms": 8,
+  "run": "agent_gpt5mini",
+  "seconds": 1054.2,
+  "usage": {
+    "prompt_tokens": 709109,
+    "completion_tokens": 99283,
+    "requests": 197
+  }
+}

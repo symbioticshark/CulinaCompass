@@ -1,0 +1,16 @@
+dish_id,servings_est,prorated_cost_sgd,cash_outlay_empty_pantry_sgd,unpriced_required_ingredients,priced_lines
+idli,4,0.91,9.36,,4
+dosa,4,1.94,19.11,,7
+medu_vada,5,1.25,10.2,,3
+coconut_chutney,4,1.34,22.24,,8
+sambar,4,3.54,37.07,,16
+tomato_rasam,3,1.65,34.93,,10
+ven_pongal,3,1.7,53.49,,9
+rava_upma,2,1.16,19.07,,8
+lemon_rice,3,2.55,28.11,,10
+pulihora,3,2.17,34.6,,12
+curd_rice,2,1.96,22.58,,9
+pesarattu,4,1.56,18.99,,6
+gongura_pachadi,3,0.69,22.25,gongura_leaves,9
+avial,4,7.08,33.48,mangalore_cucumber,12
+gutti_vankaya_kura,2,3.14,63.38,,19

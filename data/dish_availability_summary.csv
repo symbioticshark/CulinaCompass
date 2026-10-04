@@ -1,0 +1,16 @@
+dish_id,n_required_ingredients,n_confirmed,n_likely,n_difficult,n_unknown,signature_ingredients,worst_signature_grade,required_ingredients_not_readily_available
+idli,5,5,0,0,0,urad_dal:Confirmed|idli_rice:Confirmed,Confirmed,
+dosa,7,7,0,0,0,urad_dal:Confirmed|sona_masoori_rice:Confirmed,Confirmed,
+medu_vada,3,3,0,0,0,urad_dal:Confirmed,Confirmed,
+coconut_chutney,8,8,0,0,0,fresh_grated_coconut:Confirmed,Confirmed,
+sambar,20,20,0,0,0,toor_dal:Confirmed|tamarind:Confirmed,Confirmed,
+tomato_rasam,12,12,0,0,0,tomato:Confirmed|cumin_seeds:Confirmed|black_peppercorns:Confirmed,Confirmed,
+ven_pongal,9,9,0,0,0,sona_masoori_rice:Confirmed|moong_dal_yellow:Confirmed|ghee:Confirmed|black_peppercorns:Confirmed,Confirmed,
+rava_upma,8,8,0,0,0,rava_semolina:Confirmed,Confirmed,
+lemon_rice,10,10,0,0,0,sona_masoori_rice:Confirmed|lemon:Confirmed,Confirmed,
+pulihora,12,12,0,0,0,sona_masoori_rice:Confirmed|tamarind:Confirmed,Confirmed,
+curd_rice,9,9,0,0,0,sona_masoori_rice:Confirmed|curd_yogurt:Confirmed,Confirmed,
+pesarattu,7,7,0,0,0,green_moong_whole:Confirmed,Confirmed,
+gongura_pachadi,10,9,0,1,0,gongura_leaves:Difficult,Difficult,gongura_leaves
+avial,13,12,0,1,0,fresh_grated_coconut:Confirmed|curd_yogurt:Confirmed|coconut_oil:Confirmed,Confirmed,mangalore_cucumber
+gutti_vankaya_kura,20,20,0,0,0,peanuts:Confirmed|brinjal_small:Confirmed,Confirmed,

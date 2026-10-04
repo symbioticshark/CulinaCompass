@@ -1,0 +1,10 @@
+retailer_id,name,channel,website,evidence_method,catalogue_endpoint,notes
+waangoo,Waangoo,indian_grocer_online,https://www.waangoo.com,catalogue_api,/search/suggest.json (Shopify predictive search),"Online Indian grocer delivering in Singapore; per-product available flag read from live catalogue"
+kiasumart,Kiasumart,indian_grocer_online,https://kiasumart.com,catalogue_api,/wp-json/wc/store/v1/products (WooCommerce Store API),"Online Indian grocer in Singapore; is_in_stock read from live catalogue; prices in cents"
+selvistores,Selvi Stores,indian_grocer_online,https://selvistores.sg,catalogue_api,/search/suggest.json (Shopify predictive search),"Small Indian grocer (Serangoon/Hougang); catalogue has many $0.00 placeholder prices and no pack sizes - treated as weak evidence"
+farms2home,Farms2Home.sg,indian_grocer_online,https://farms2home.sg,catalogue_api,/wp-json/wc/store/v1/products (WooCommerce Store API),"All items checked were out of stock on 2026-09-28; may be dormant"
+karthika,Karthika Supermarket,indian_grocer_online,https://www.karthika.sg,catalogue_page,/Mixer-Grinder category page,"Buffalo Rd and Yishun; used for kitchen appliances; site search did not return results to automated fetch"
+fairprice,NTUC FairPrice,mainstream_supermarket,https://www.fairprice.com.sg,search_index,web search restricted to fairprice.com.sg,"robots.txt blocks automated fetch; only product-page existence is recorded (price and stock NOT verified)"
+horti_sg,Horti (seed supplier),specialty_seeds,https://horti.sg,web_search,web search,"Seed supplier; used only for grow-your-own route for roselle (gongura)"
+web,Open web search,web_search,,web_search,,"Used to record absence of any Singapore listing after searching"
+sgwetmarket,SGWetMarket,wet_market_online,https://sgwetmarket.com.sg,catalogue_api,/search/suggest.json (Shopify predictive search),"Online wet-market delivery (incl. Tekka); used to check fresh gongura"

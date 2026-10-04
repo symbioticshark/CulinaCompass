@@ -1,0 +1,287 @@
+ingredient_id	retailer_id	query	product_title	price_sgd	in_stock	product_path	match	verified_on
+idli_rice	waangoo	idli rice	Udhayam Idly Rice (No Exchange / Return) - 1 Kg	3.55	true	/products/sri-murugan-idly-rice-no-exchange-return	exact	2026-09-28
+idli_rice	waangoo	idli rice	Udhayam Idly Rice (No Exchange / Return) - 5 Kg	11.80	true	/products/udhayam-idly-rice-no-exchange-return	exact	2026-09-28
+idli_rice	waangoo	idli rice	Pattu Idly Rice - 5 kg	11.82	true	/products/pattu-idly-rice-5-kg	exact	2026-09-28
+idli_rice	waangoo	idli rice	Popular Parboiled Idly Rice - 5 Kg	14.65	true	/products/popular-parboiled-idly-rice-5-kg	exact	2026-09-28
+instant_idli_mix	waangoo	idli rice	GITS Rice Idly Mix - 200 g	2.20	true	/products/gits-rice-idly-mix	exact	2026-09-28
+ready_idli_dosa_batter	waangoo	idli rice	Suvai Multi Millet Idly Dosa Batter (Chilled) - 1 Kg	4.95	true	/products/suvai-multi-millet-idly-dosa-batter-delivered-at-least-2-days-before-it-expires-chilled	variant	2026-09-28
+basmati_rice	waangoo	idli rice	India Gate Classic Basmati Rice - 1 Kg	6.20	true	/products/india-gate-classic-basmati-rice	exact	2026-09-28
+sona_masoori_rice	waangoo	sona masoori	Udhayam Gold Sona Masoori Raw Rice (No Exchange / Return) - 1 Kg	3.86	true	/products/sri-murugan-gold-sona-massori-raw-rice-no-exchange-return	exact	2026-09-28
+sona_masoori_rice	waangoo	sona masoori	Ambika's Sona Masoori Rice (Raw Rice) (No Exchange / Return) - 1Kg	3.04	false	/products/ambikas-sona-masoori-rice-raw-rice-no-exchange-return	exact	2026-09-28
+sona_masoori_rice	waangoo	sona masoori	SPM Sona Masoori Rice Rice - 5 Kg	13.99	false	/products/spm-sona-masoori-rice-rice	exact	2026-09-28
+sona_masoori_rice	waangoo	sona masoori	Bharath Sona Masoori Raw Rice - 5 kg	10.13	false	/products/bharath-sona-masoori-raw-rice-5-kg	exact	2026-09-28
+poha	waangoo	poha	(no matching product in top 8 results)			-	none	2026-09-28
+rava_semolina	waangoo	rava	Sri Murugan Roasted Rava /Semolina (Sooji/Suji) - 1 Kg	4.71	true	/products/sri-murugan-roasted-rava-1	exact	2026-09-28
+rava_semolina	waangoo	rava	Sri Murugan Bansi Rava /Semolina (Sooji/Suji) - 500 g	2.99	true	/products/sri-murugan-bansi-rava	exact	2026-09-28
+urad_dal	waangoo	urad dal	Malika White Urid Dal Whole (Gota) - 1 Kg	4.65	true	/products/malika-urid-dal-gota-whole-1	exact	2026-09-28
+urad_dal	waangoo	urad dal	KITCHEN XPRESS White Urid Dal Whole (Gota) - 500 g	3.02	true	/products/kitchen-xpress-white-urid-dal-whole	exact	2026-09-28
+urad_dal	waangoo	urad dal	Udhaiyam White Urid Dal Whole (Gota) (Shree Lakshmi) - 1 Kg	5.72	true	/products/udhaiyam-urid-dal-whole-india-shree-lakshmi	exact	2026-09-28
+urad_dal	waangoo	urad dal	KITCHEN XPRESS Black Urid Dal Split - 1 Kg	5.41	true	/products/kitchen-xpress-black-urid-dal-split-1	variant	2026-09-28
+chana_dal	waangoo	chana dal	Malika Channa Dal - 1 kg	3.40	true	/products/malika-channa-dal-1	exact	2026-09-28
+chana_dal	waangoo	chana dal	Malika Channa  Dal - 500 g	2.25	true	/products/malika-channa-dal	exact	2026-09-28
+chana_dal	waangoo	chana dal	KITCHEN XPRESS Channa Dal - 500 g	4.96	true	/products/kitchen-xpress-channa-dal-1	exact	2026-09-28
+moong_dal_yellow	waangoo	moong dal	(only green split/whole moong in top 8; no skinned yellow moong)			-	none	2026-09-28
+moong_dal_yellow	waangoo	moong dal	Malika Green Moong Dal Split - 500 g	2.75	true	/products/malika-split-green-moong-dal	variant	2026-09-28
+green_moong_whole	waangoo	green moong whole	Malika Green Moong Dal Whole - 500 g	2.25	true	/products/malika-green-moong-dal-whole	exact	2026-09-28
+green_moong_whole	waangoo	green moong whole	Native Again Green Moong Whole - 500 g	6.25	true	/products/native-again-whole-moong-green-500-g	exact	2026-09-28
+toor_dal	waangoo	toor dal	Udhaiyam Toor Dal India (Shree Lakshmi) - 1 Kg	5.90	true	/products/udhaiyam-toor-dal-india-shree-lakshmi	exact	2026-09-28
+green_peas	waangoo	green moong whole	Fresh Whole Green Peas India - 500 g	5.98	true	/products/fresh-whole-green-peas-india	exact	2026-09-28
+U:dosa_tawa	waangoo	rava	Vinod Legacy Pre Seasoned Cast Iron Roti/Chapati/Phulka Tawa with Handle - 26 cm - LCIT26	34.67	true	/products/vinod-legacy-pre-seasoned-cast-iron-roti-chapati-phulka-tawa-with-handle	variant	2026-09-28
+tomato	waangoo	collection:fresh-vegetables	Fresh Tomato - 1 Kg	3.10	true	/products/fresh-tomato-1	exact	2026-09-28
+onion	waangoo	collection:fresh-vegetables	Fresh Big Onions (India) - 1 Kg	1.99	true	/products/fresh-big-onions-india	exact	2026-09-28
+lemon	waangoo	collection:fresh-vegetables	Fresh Small Yellow Lemon India - 250 g	3.08	true	/products/fresh-small-yellow-lemon-india	exact	2026-09-28
+french_beans	waangoo	collection:fresh-vegetables	Fresh French Beans (India) - 500 g	4.21	true	/products/fresh-french-beans-1	exact	2026-09-28
+drumstick	waangoo	collection:fresh-vegetables	Fresh Drumsticks India - 200 g 2 to 3 Sticks	3.25	true	/products/fresh-drumsticks-india	exact	2026-09-28
+okra	waangoo	collection:fresh-vegetables	Fresh Lady Fingers India Bhindi - 300 g	2.99	true	/products/fresh-lady-fingers-india-bhindi	exact	2026-09-28
+carrot	waangoo	collection:fresh-vegetables	Fresh Carrots (Australia) - 500 g	1.79	true	/products/fresh-carrots-australia	exact	2026-09-28
+cucumber	waangoo	collection:fresh-vegetables	Fresh Cucumber - 900 g to 1 Kg	4.83	true	/products/fresh-cucumber	exact	2026-09-28
+green_chilli	waangoo	collection:fresh-vegetables	Fresh Big Green Chillies India - 200 g	2.15	true	/products/fresh-big-green-chillies-india	exact	2026-09-28
+raw_banana	waangoo	collection:fresh-vegetables	Fresh Raw Banana India - 2 Pcs	3.45	true	/products/fresh-raw-banana-india	exact	2026-09-28
+poha	waangoo	aval	Malika Thick Aval/Poha (Rice Flakes) - 500 g	1.95	false	/products/malika-thick-aval-poha-rice-flakes-500-g	exact	2026-09-28
+poha	waangoo	aval	Sri Murugan Thick Getti Aval/Poha (Rice Flakes) - 500 g	2.18	false	/products/sri-murugan-thick-getti-aval-poha-rice-flakes	exact	2026-09-28
+poha	waangoo	aval	Peshwai's Rice Flakes Thick (Jade Poha / Aval) - 500 g	4.00	false	/products/peshwais-rice-flakes-thick-jade-poha-aval	exact	2026-09-28
+poha	waangoo	aval	Sri Murugan Aval/Poha Thin (Rice Flakes) - 500 g	2.24	false	/products/sri-murugan-aval-poha-thin-rice-flakes	variant	2026-09-28
+moong_dal_yellow	waangoo	moong yellow	(no skinned yellow moong dal in top 8; only green split/whole)			-	none	2026-09-28
+urad_dal	waangoo	urid dal white split	(no white split urad; whole white gota and black split only)			-	none	2026-09-28
+peanuts	waangoo	peanuts	Sri Murugan Groundnut/Peanuts - 500 g	4.55	true	/products/sri-murugan-groundnut-peanuts-1	exact	2026-09-28
+peanuts	waangoo	peanuts	Redman Roasted Grate A Peanut - 250 G	3.66	true	/products/redman-roasted-grate-a-peanut-250-g	variant	2026-09-28
+cashews	waangoo	cashew	Malika Premium Quality Whole Cashewnuts - 500 g	13.51	true	/products/malika-premium-quality-whole-cashewnuts	exact	2026-09-28
+cashews	waangoo	cashew	Nut But Premium Cashewnuts w320 - 250 g	5.95	true	/products/nut-but-premium-cashewnut-250-g	exact	2026-09-28
+cashews	waangoo	cashew	Redman Cashew Nut - 250 G	7.13	true	/products/redman-redman-cashew-nut-250-g	exact	2026-09-28
+sesame_seeds_white	waangoo	sesame seeds	Redman Sesame Seed White - 1 Kg	7.13	true	/products/redman-redman-sesame-seed-white-1-kg	exact	2026-09-28
+mustard_seeds	waangoo	mustard seeds	Malika Mustard Seeds - 500 g	3.00	true	/products/malika-mustard-seeds	exact	2026-09-28
+fenugreek_seeds	waangoo	mustard seeds	Malika Fenugreek (Methi) Seeds - 500 g	2.84	true	/products/malika-fenugreek-methi-seeds	exact	2026-09-28
+cumin_seeds	waangoo	cumin seeds	Spigol Whole Cumin - 65 G	10.08	true	/products/spigol-whole-cumin-65-g	exact	2026-09-28
+dried_red_chilli	waangoo	cumin seeds	Malika Red Dry Chilli Without Stem - 250 g	3.93	true	/products/malika-red-dry-chili-without-stem-250-g	exact	2026-09-28
+coriander_leaves	waangoo	coriander seeds	Fresh Coriander Leaves - 100 g	2.55	true	/products/fresh-coriander-leaves	exact	2026-09-28
+black_peppercorns	waangoo	black pepper	Redman Whole Black Pepper - 450 G	14.26	true	/products/redman-whole-black-pepper-450-g	exact	2026-09-28
+black_peppercorns	waangoo	black pepper	Spigol Whole Black Pepper - 70 G	11.55	true	/products/spigol-whole-black-pepper-70-g	exact	2026-09-28
+black_peppercorns	waangoo	black pepper	EVEREST Black Pepper Powder - 50 g	2.32	true	/products/everest-black-pepper-powder-50-g	variant	2026-09-28
+kashmiri_chilli	waangoo	kashmiri chilli	Keya Kashmiri Paprika Powder - 50 g	4.33	true	/products/keya-kashmiri-paprika-powder-jar	variant	2026-09-28
+kashmiri_chilli	waangoo	kashmiri chilli	Native Again Byadgi Chilli Powder - 250 g	6.75	true	/products/native-again-byadgi-chilli-powder-250-g	variant	2026-09-28
+red_chilli_powder	waangoo	kashmiri chilli	BABA'S Chilli Powder - 250 g	4.15	true	/products/babas-chilli-powder-2	exact	2026-09-28
+red_chilli_powder	waangoo	kashmiri chilli	BABA'S Chilli Powder - 125 g	3.11	true	/products/babas-chilli-powder	exact	2026-09-28
+cinnamon	waangoo	cinnamon	Redman 4" Cinnamon Stick - 500 G	11.50	true	/products/redman-4-cinnamon-stick-500-g	exact	2026-09-28
+cloves	waangoo	cloves	Malika Cloves (Grambu) - 100 g	3.41	true	/products/malika-cloves-grambu	exact	2026-09-28
+cloves	waangoo	cloves	Pattu Cloves - 100 g	3.20	true	/products/pattu-cloves-100-g	exact	2026-09-28
+garlic	waangoo	cloves	Fresh Garlic Split (Big) - 250 g	2.09	true	/products/fresh-garlic-split-big	exact	2026-09-28
+garlic	waangoo	cloves	Fresh Garlic Split (Big) - 500 g	3.05	true	/products/fresh-garlic-split-big-1	exact	2026-09-28
+green_cardamom	waangoo	cardamom	Pattu Green Caradamon - 100 g	8.30	true	/products/pattu-green-cardamon-100-g	exact	2026-09-28
+asafoetida	waangoo	asafoetida	MOTHER'S RECIPE Asafoetida Powder (Perungayam/Hing) - 50 g	2.73	false	/products/mothers-recipe-asafoetida-powder-perungayam-hing	exact	2026-09-28
+asafoetida	waangoo	asafoetida	LG Asafoetida/Hing Powder - 100 g	4.55	false	/products/lg-asafoetida-hing-powder-1	exact	2026-09-28
+asafoetida	waangoo	asafoetida	Malika Asafoetida Powder - 100 g	3.53	false	/products/malika-asafoetida-100-g	exact	2026-09-28
+asafoetida	waangoo	asafoetida	Everest Hingraj (Asafoetida) Powder - 50 g	4.25	false	/products/everest-hingraj-asafoetida-powder	exact	2026-09-28
+cumin_seeds	waangoo	malika cumin	(no Indian-brand whole cumin in top 8; only Spigol 65 g)			-	none	2026-09-28
+coriander_seeds	waangoo	coriander whole	(no whole coriander seed in top 8; only ground/fresh)			-	none	2026-09-28
+turmeric_powder	waangoo	turmeric powder	BABA'S Turmeric Powder - 125 g	2.20	true	/products/babas-turmeric-powder	exact	2026-09-28
+turmeric_powder	waangoo	turmeric powder	Redman Turmeric Powder - 100 G	5.16	true	/products/redman-turmeric-powder-100-g	exact	2026-09-28
+sambar_powder	waangoo	sambar powder	BABA'S Sambar Powder - 250 g	3.53	true	/products/babas-sambar-powder-1	exact	2026-09-28
+sambar_powder	waangoo	sambar powder	BABA'S Sambar Powder - 125 g	1.83	true	/products/babas-sambar-powder	exact	2026-09-28
+rasam_powder	waangoo	rasam powder	(no rasam powder in top 8)			-	none	2026-09-28
+curry_leaves	waangoo	curry leaves	Fresh Curry Leaves - 50 g	0.79	true	/products/fresh-curry-leaves-1	exact	2026-09-28
+ginger	waangoo	ginger	Fresh Ginger India - 500 g	4.99	true	/products/fresh-ginger-india	exact	2026-09-28
+ginger	waangoo	ginger	Fresh Ginger (Thailand) - 500 g	3.45	true	/products/fresh-ginger-thailand	exact	2026-09-28
+shallots	waangoo	shallots	Fresh Small Onions (Shallot) - 500 g	3.25	true	/products/fresh-small-onions-shallot	exact	2026-09-28
+shallots	waangoo	shallots	Fresh Small Onions (Shallot) - 1 Kg	5.55	true	/products/fresh-small-onions-shallot-1	exact	2026-09-28
+brinjal_small	waangoo	brinjal	Fresh Brinjal India Baingan Eggplant - 500 g	3.25	true	/products/fresh-brinjal-india-baingan-eggplant	exact	2026-09-28
+brinjal_small	waangoo	brinjal	Fresh Brinjal India (Baingan/Eggplant) - 300 g	2.45	true	/products/fresh-brinjal-india-baingan-eggplant-2	exact	2026-09-28
+ash_gourd	waangoo	ash gourd	Fresh Ash Gourd (Winter Melon) - 1 Pc (1 kg to 1.5 Kg)	3.49	true	/products/fresh-ash-gourd-winter-melon	exact	2026-09-28
+ash_gourd	waangoo	ash gourd	Grindo Prepfresh Ash Gourd (Diced Cubes) - 200 g	2.17	true	/products/grindo-prepfresh-ash-gourd-diced-cubes-200-g	variant	2026-09-28
+pumpkin	waangoo	pumpkin	Fresh Pumpkin Yellow - 1 Pc (800 g to 1 Kg)	3.11	true	/products/fresh-pumpkin-yellow	exact	2026-09-28
+elephant_foot_yam	waangoo	yam	Fresh Elephant Foot Yam India - 1 Pc 500g to 550 g	3.75	true	/products/fresh-elephant-foot-yam-india	exact	2026-09-28
+elephant_foot_yam	waangoo	yam	Grindo Prepfresh Elephant Foot Yam (Diced Cubes) - 250 g	3.32	true	/products/grindo-prepfresh-elephant-foot-yam-diced-cubes-250-g	variant	2026-09-28
+mangalore_cucumber	waangoo	cucumber	(no Mangalore/madras cucumber in top 8; only English/Japanese/baby cucumber)			-	none	2026-09-28
+cucumber	waangoo	cucumber	Fresh Japanese Cucumber - 2 Pcs	3.04	true	/products/fresh-japanese-cucumber	exact	2026-09-28
+gongura_leaves	waangoo	gongura	(no fresh gongura leaves; pickles only)			-	none	2026-09-28
+gongura_pickle	waangoo	gongura	MOTHER'S RECIPE Andhra Gongura Pickle - 300 g	2.60	true	/products/mothers-recipe-andhra-gongura-pickle	exact	2026-09-28
+gongura_pickle	waangoo	gongura	Ruchi Gongura Leaves Pickle - 300 g	3.00	true	/products/ruchi-gongura-leaves-pickle	exact	2026-09-28
+fresh_grated_coconut	waangoo	grated coconut	Grindo Prepfresh Coconut (Rough Cut) - 200 g	3.10	true	/products/grindo-prepfresh-coconut-rough-cut-200-g	variant	2026-09-28
+desiccated_coconut	waangoo	grated coconut	Redman Desiccated Coconut - 500 G	7.82	true	/products/redman-desiccated-coconut-500-g	exact	2026-09-28
+desiccated_coconut	waangoo	grated coconut	Redman Dessicated Coconut - 250 G	4.92	true	/products/redman-redman-dessicated-coconut-250-g	exact	2026-09-28
+curd_yogurt	waangoo	curd	DailyFresh Homestyle Yogurt - 470 g (Chilled)	3.99	true	/products/daily-fresh-homestyle-yogurt-1	exact	2026-09-28
+curd_yogurt	waangoo	curd	DailyFresh Homestyle Yoghurt With Probiotic - 1 kg (Chilled)	7.99	true	/products/daily-fresh-homestyle-yogurt-with-probiotic-1-kg-chilled	exact	2026-09-28
+ghee	waangoo	curd	Faith Foods Premium A2 Gir Cow Ghee (Certified ORGANIC) - 250 ml	19.50	true	/products/faith-foods-premium-a2-gir-cow-ghee-250-ml-1x18	exact	2026-09-28
+fresh_grated_coconut	waangoo	frozen coconut	Fresh Coconut (India) Broken into 2 Halves- 1 Pc	1.95	true	/products/fresh-coconut-india-broken-into-2-halves-no-exchange-or-refund-for-this-product	variant	2026-09-28
+ghee	waangoo	ghee	AMUL Pure Ghee - 500 ml	9.26	true	/products/amul-pure-ghee-1	exact	2026-09-28
+ghee	waangoo	ghee	AASHIRVAAD Svasti Pure Cow Ghee - 500 ml	11.70	true	/products/aashirvaad-svasti-pure-cow-ghee-1	exact	2026-09-28
+ghee	waangoo	ghee	Aachi Ghee Jar - 200 ml	5.75	true	/products/aachi-ghee-jar-1-l	exact	2026-09-28
+coconut_oil	waangoo	coconut oil	Parachute Pure Coconut Oil - 1 L	19.90	true	/products/parachute-pure-coconut-oil	exact	2026-09-28
+coconut_oil	waangoo	coconut oil	Suvai Cold Pressed Virgin Coconut Oil - 500 ml	8.99	true	/products/suvai-cold-pressed-virgin-coconut-oil	exact	2026-09-28
+sesame_oil	waangoo	gingelly oil	Idhayam Sesame/Gingelly Oil - 200 ml	5.00	true	/products/idhayam-sesame-gingelly-oil	exact	2026-09-28
+sesame_oil	waangoo	gingelly oil	Gold Winner Gingelly Oil - 500 ml	5.75	true	/products/gold-winner-gingelly-oil-500-ml	exact	2026-09-28
+groundnut_oil	waangoo	gingelly oil	Idhayam Mantra Groundnut Oil - 1 L	9.71	true	/products/idhayam-mantra-groundnut-oil	exact	2026-09-28
+cooking_oil	waangoo	sunflower oil	Fortune Refined Sunflower Oil - 1 L	4.89	true	/products/fortune-refined-sunflower-oil	exact	2026-09-28
+jaggery	waangoo	jaggery	Sri Murugan Jaggery Powder - 500 g	2.25	true	/products/sri-murugan-jaggery-powder	exact	2026-09-28
+jaggery	waangoo	jaggery	Akshar Kolhapuri Jaggery - 980 g	5.40	true	/products/akshar-kolhapuri-jaggery-980-g	exact	2026-09-28
+tamarind	waangoo	tamarind	Akshar Tamarind Concentrate Paste - 350 g	3.87	true	/products/akshar-tamarind-concentrate-paste	variant	2026-09-28
+salt	waangoo	salt	Go Earth Premium Himalayan Pink Salt (Certified ORGANIC) - 1 Kg	2.29	true	/products/go-earth-premium-himalayan-pink-salt-certified-organic	exact	2026-09-28
+salt	waangoo	salt	Deltasal Fine Sea Salt - 1Kg	3.66	true	/products/deltasal-fine-sea-salt-1kg	exact	2026-09-28
+vadiyalu	waangoo	vadiyalu	(no lentil vadiyalu/vadagam in top 8)			-	none	2026-09-28
+curd_chillies	waangoo	curd chilli	(no curd/mor chillies in top 8; fresh chillies only)			-	none	2026-09-28
+green_chilli	waangoo	curd chilli	Fresh Green Chilli Padi (Thailand) - 250 g	2.28	true	/products/fresh-green-chilli-padi-thailand	variant	2026-09-28
+ginger_garlic_paste	waangoo	ginger garlic paste	Grindo Fresh Ground Ginger Garlic Paste Classic - 180 ml	2.99	true	/products/grindo-fresh-home-ground-ginger-garlic-paste-classic-180-ml	exact	2026-09-28
+tamarind	waangoo	tamarind block	Malika White Tamarind Bar Seedless - 500 g	3.59	false	/products/malika-white-tamarind-bar-seedless	exact	2026-09-28
+tamarind	waangoo	tamarind block	GAAY White Tamarind - 200 g	3.50	false	/products/gaay-white-tamarind	exact	2026-09-28
+tamarind	waangoo	tamarind block	Veyr Tamarind - 250 g	6.49	false	/products/tamarind-250-g	exact	2026-09-28
+coconut_milk	waangoo	coconut milk	Carrefour Coconut Milk - 400 ml	7.56	true	/products/carrefour-coconut-milk-00ml	exact	2026-09-28
+raw_mango	waangoo	raw mango	Fresh Raw Mango ( India ) - 350 to 500g (1 or 2 pcs)	4.07	true	/products/fresh-raw-mango-1	exact	2026-09-28
+spinach	waangoo	spinach	Fresh Green Spinach - 300 g	3.14	true	/products/fresh-green-spinach-1	exact	2026-09-28
+drumstick	waangoo	frozen drumstick	NOTE: query 'drumstick' also returns chicken drumsticks - alias collision			-	none	2026-09-28
+frozen_drumstick	waangoo	frozen drumstick	(no frozen moringa drumstick in top 8)			-	none	2026-09-28
+U:idli_steamer	waangoo	idli cooker	Aluminium Idly maker 9 Idlys - 1 Pc (2 Layer)	18.00	true	/products/aluminium-idly-maker-9-idlys	exact	2026-09-28
+ready_idli_frozen	waangoo	idli cooker	Suvai Fresh Cooked Idly (Frozen) - 8 Pcs	4.55	true	/products/suvai-fresh-cooked-idly-frozen	exact	2026-09-28
+U:pressure_cooker	waangoo	pressure cooker	Vinod 18/8 Stainless Steel Pressure Cooker Outer Lid - 3 L - TCSB3	34.55	true	/products/vinod-18-8-stainless-steel-pressure-cooker-outer-lid-3-litre	exact	2026-09-28
+U:pressure_cooker	waangoo	pressure cooker	Steelhouse Hawkins Pressure Cooker Contura Black - 5Ltr	74.45	true	/products/hawkins-pressure-cooker-contura-black-5ltr	exact	2026-09-28
+U:pressure_cooker	waangoo	pressure cooker	Vinod 18/8 Stainless Steel Pressure Cooker Outer Lid - 2 L - TCSB2	31.49	true	/products/vinod-18-8-stainless-steel-pressure-cooker-outer-lid-2-litre	exact	2026-09-28
+U:wet_grinder	waangoo	wet grinder	Vijayalakshmi Tycoon Table Top Wet Grinder - 3 L	139.99	true	/products/vijayalakshmi-tycoon-table-top-wet-grinder-3-l	exact	2026-09-28
+U:wet_grinder	waangoo	wet grinder	Elgi Ultra Mini Wet Grinder White - 1.25 L (1 Pc)	220.00	true	/products/elgi-ultra-mini-wet-grinder-white	exact	2026-09-28
+U:wet_grinder	waangoo	wet grinder	Amirthaa Wet Grinder Surabi - 2 L (1 Pc)	99.12	false	/products/amirthaa-wet-grinder-surabi	exact	2026-09-28
+U:mixer_grinder	waangoo	mixer grinder	(no Indian multi-jar mixer grinder in top 8; Cello juicer-mixer 550W is closest)			-	none	2026-09-28
+U:mixer_grinder	waangoo	mixer grinder	Cello Juicer 550 Watt Juicer Mixer With Stainless Steel Blades, (White, Blue)	59.91	true	/products/cello-juicer-550-watt-juicer-mixer-with-stainless-steel-blades-white-blue	variant	2026-09-28
+U:kadai	waangoo	kadai	Vinod Stainless Steel Kadai with Glass Lid - 1.5 L (18 cm) (Induction Friendly) - IKD18	13.27	true	/products/vinod-stainless-steel-kadai-with-glass-lid-18-cm-1-4-l-induction-friendly	exact	2026-09-28
+U:kadai	waangoo	kadai	Butterfly (LLM) Kadai With Glass Lid - 1 Pc (24 cm)	20.86	true	/products/kadai-glass-with-lid-1-pc	exact	2026-09-28
+U:kadai	waangoo	kadai	Cast Iron kadai - 12 inch	32.08	true	/products/cast-iron-kadai-12-inch	exact	2026-09-28
+U:dosa_tawa	waangoo	dosa tawa	Vinod Zest Aluminium Non Stick Dosa Omni Tawa - 28cm - ZOT28 + FREE Lunch Box 1 Pc	22.15	true	/products/vinod-zest-aluminium-non-stick-dosa-omni-tawa-28cm	exact	2026-09-28
+U:dosa_tawa	waangoo	dosa tawa	Pure Iron Dosa Tawa With Wooden Handle color may vary - 11 inch + FREE Storage Container 3 Pcs	55.65	true	/products/pure-iron-dosa-tawa-with-wooden-handle-11-inch	exact	2026-09-28
+U:tadka_pan	waangoo	tadka pan	Aluminium Stick Tadka Pan - 1 Pc	5.35	true	/products/aluminium-stick-tadka-pan	exact	2026-09-28
+U:tadka_pan	waangoo	tadka pan	Vinod Platinum Triply Stainless Steel Tadka Pan Large - 300 ml - PTTPL	9.91	true	/products/vinod-platinum-triply-stainless-steel-tadka-pan-large-300-ml	exact	2026-09-28
+U:mixer_grinder	waangoo	preethi	(Preethi brand listed only for stove/rice cooker, both out of stock; no mixer grinder)			-	none	2026-09-28
+U:idli_steamer	waangoo	idli stand	Vinod Classic Stainless Steel Idli Maker Cooker - 4 Deeper Plates (16 Idlis) - IDC4	21.98	false	/products/vinod-classic-stainless-steel-idli-maker-cooker-4-deeper-plates-16-idlis	exact	2026-09-28
+U:steamer_pot	waangoo	idli stand	Vinod Stainless Steel Steamer 2 Tier with Glass Lid - 24 cm - BSSH224	24.70	true	/products/vinod-stainless-steel-steamer-2-tier-with-glass-lid-1	exact	2026-09-28
+ready_idli_dosa_batter	waangoo	dosa batter	Suvai Idly Dosa Batter (Chilled) - 1 Kg	3.75	true	/products/suvai-idly-dosa-batter-delivered-at-least-3-days-before-it-expires-chilled	exact	2026-09-28
+zucchini	waangoo	zucchini	Fresh Green Zucchini - 1 pc	3.95	true	/products/fresh-green-zucchini	exact	2026-09-28
+gula_melaka	waangoo	gula melaka	2P Gula Melaka - 500 G	3.66	true	/products/2p-gula-melaka-500-g	exact	2026-09-28
+jasmine_rice	waangoo	jasmine rice	(no Thai jasmine/hom mali rice in top 8; basmati only)			-	none	2026-09-28
+taro	waangoo	taro	(no fresh taro in top 8)			-	none	2026-09-28
+gongura_leaves	kiasumart	gongura	(no fresh gongura leaves; pickles only)			-	none	2026-09-28
+gongura_pickle	kiasumart	gongura	Pattu Gongura Pickle 300g	1.90	true	https://kiasumart.com/product/pattu-gongura-pickle-300g/	exact	2026-09-28
+gongura_pickle	kiasumart	gongura	Ruchi Gongura Leaves Pickle 300g	2.40	true	https://kiasumart.com/product/ruchi-gongura-leaves-pickle-300g/	exact	2026-09-28
+curry_leaves	kiasumart	curry leaves	Fresh Curry Leaves 80g-100g	1.20	true	https://kiasumart.com/product/fresh-curry-leaves-100g/	exact	2026-09-28
+asafoetida	kiasumart	hing	(no asafoetida in results; search matched unrelated 'hing' substrings)			-	none	2026-09-28
+poha	kiasumart	poha	Ambikas Thick Rice Flakes (Poha/Aval) 500g	1.60	true	https://kiasumart.com/product/ambikas-thick-rice-flakes-poha/	exact	2026-09-28
+poha	kiasumart	poha	Ambikas Medium Rice Flakes (Poha/Aval) 500g	1.60	true	https://kiasumart.com/product/ambikas-medium-rice-flakes-poha-aval-500g/	variant	2026-09-28
+poha	kiasumart	poha	Pattu Poha (Flattened Rice) 500g	1.65	false	https://kiasumart.com/product/pattu-poha-flattened-rice-500g/	exact	2026-09-28
+cumin_seeds	kiasumart	cumin	SSR Cumin Seeds 250g	5.45	true	https://kiasumart.com/product/ssr-cumin-seeds-250g/	exact	2026-09-28
+cumin_seeds	kiasumart	cumin	Virasat Cumin Seeds 1kg	7.60	true	https://kiasumart.com/product/virasat-cumin-seeds-1kg/	exact	2026-09-28
+coriander_seeds	kiasumart	coriander	SSR Coriander Seeds 100g	1.10	true	https://kiasumart.com/product/ssr-coriander-seeds-100g/	exact	2026-09-28
+coriander_seeds	kiasumart	coriander	Pattu Indoori Coriander Seed 500g	2.70	true	https://kiasumart.com/product/pattu-indoori-coriander-seed-500g/	exact	2026-09-28
+asafoetida	kiasumart	asafoetida	LG Hing Asafoetida 50g	2.45	true	https://kiasumart.com/product/lg-hing-asafoetida-50g/	exact	2026-09-28
+asafoetida	kiasumart	asafoetida	Varahi Asafoetida 100g	2.55	true	https://kiasumart.com/product/varahi-asafoetida-100g/	exact	2026-09-28
+asafoetida	kiasumart	asafoetida	Aachi Asafoetida Powder 50g	2.05	false	https://kiasumart.com/product/aachi-asafoetida-powder-50g/	exact	2026-09-28
+moong_dal_yellow	kiasumart	moong	Ooty Moong Dhall Split 1kg (Pack of 5)	20.00	true	https://kiasumart.com/product/ooty-moong-dhall-split-1kg-pack-of-5/	exact	2026-09-28
+moong_dal_yellow	kiasumart	moong	Udhaiyam Moong Dhall 1kg	3.95	false	https://kiasumart.com/product/udhaiyam-moong-dhall-1kg/	exact	2026-09-28
+moong_dal_yellow	kiasumart	moong	Ambikas Moong Dhall Split 500g	2.00	false	https://kiasumart.com/product/ambikas-moong-dhall-split-500g/	exact	2026-09-28
+moong_dal_yellow	kiasumart	moong	House Brand Moong Dhall 500g	2.40	false	https://kiasumart.com/product/house-brand-moong-dhall-500g/	exact	2026-09-28
+urad_dal	kiasumart	urad	Ooty Urid / Urad / Urud Dhall Split 1kg	4.80	true	https://kiasumart.com/product/ooty-urid-dhall-spilt-1kg/	exact	2026-09-28
+urad_dal	kiasumart	urad	Ambika Urad Gota White 1kg	4.20	false	https://kiasumart.com/product/ambika-urud-gota-white-1kg/	exact	2026-09-28
+urad_dal	kiasumart	urad	Udhaiyam Urid / Urad / Urud Dhall 500g	2.50	false	https://kiasumart.com/product/udhaiyam-urid-urad-urud-dhall-500g/	exact	2026-09-28
+toor_dal	kiasumart	toor	Ooty Bombay Toor Dhall 500g	3.20	true	https://kiasumart.com/product/ooty-bombay-toor-dhall-500g/	exact	2026-09-28
+toor_dal	kiasumart	toor	Udhaiyam Toor Dhall 1kg	4.20	false	https://kiasumart.com/product/udhaiyam-toor-dhall-1kg/	exact	2026-09-28
+toor_dal	kiasumart	toor	Tata Toor Dhall 1kg	5.40	false	https://kiasumart.com/product/tata-toor-dhall-1kg/	exact	2026-09-28
+idli_rice	kiasumart	idli rice	Ambikas Parboiled Idli Rice / Iddly Rice / Idly Rice 1kg	2.45	true	https://kiasumart.com/product/ambikas-idli-rice-1kg/	exact	2026-09-28
+idli_rice	kiasumart	idli rice	Ambikas Parboiled Idli Rice / Iddly Rice / Idly Rice 5kg	9.80	true	https://kiasumart.com/product/ambikas-idli-rice-5kg/	exact	2026-09-28
+idli_rice	kiasumart	idli rice	Anarkali Iddly / Idly / Idli Rice 5kg	10.00	true	https://kiasumart.com/product/anarkali-idly-rice-5kg/	exact	2026-09-28
+tamarind	kiasumart	tamarind	SSR Tamarind 500g	4.05	true	https://kiasumart.com/product/ssr-tamarind-500g/	exact	2026-09-28
+tamarind	kiasumart	tamarind	SSR Tamarind 200g	1.75	true	https://kiasumart.com/product/ssr-tamarind-200g/	exact	2026-09-28
+tamarind	kiasumart	tamarind	Adabi Asam Jawa Xtra Seedless Tamarind 200g	2.75	true	https://kiasumart.com/product/adabi-asam-jawa-xtra-seedless-tamarind-200g/	exact	2026-09-28
+drumstick	kiasumart	drumstick	Fresh Drumstick 200g-250g	2.60	true	https://kiasumart.com/product/fresh-drumstick-250g/	exact	2026-09-28
+drumstick	kiasumart	drumstick	NOTE: 3 of 5 results are chicken drumsticks - alias collision			-	none	2026-09-28
+vadiyalu	kiasumart	vadagam	Ambikas Curry Vadagam 100g	1.50	true	https://kiasumart.com/product/ambikas-curry-vadagam-100g/	variant	2026-09-28
+vadiyalu	kiasumart	vadagam	777 Rice Round Vadagam 100g	1.85	true	https://kiasumart.com/product/777-rice-round-vadagam-100g/	variant	2026-09-28
+curd_chillies	kiasumart	mor milagai	(no results)			-	none	2026-09-28
+fresh_grated_coconut	kiasumart	coconut	Fresh Grated Coconut (400 g)	4.00	true	https://kiasumart.com/product/fresh-grated-coconut-400g/	exact	2026-09-28
+fresh_grated_coconut	kiasumart	coconut	Amutham Grated Coconut 454g	4.45	true	https://kiasumart.com/product/amutham-grated-coconut-454g/	exact	2026-09-28
+fresh_grated_coconut	kiasumart	coconut	Amutham Grated Coconut 200g	1.85	true	https://kiasumart.com/product/amutham-grated-coconut-200g/	exact	2026-09-28
+coconut_oil	kiasumart	coconut	Bajaj Coconut Oil (Jar) 1L	9.85	true	https://kiasumart.com/product/bajaj-coconut-oil-jar-1l/	exact	2026-09-28
+coconut_oil	kiasumart	coconut	SSR Cold Pressed Coconut Oil 200ml	3.25	true	https://kiasumart.com/product/ssr-cold-pressed-coconut-oil-200ml/	exact	2026-09-28
+ash_gourd	kiasumart	gourd	Fresh Ash Gourd 1pcs (White Pumpkin)	5.00	true	https://kiasumart.com/product/fresh-ash-gourd-900g-1kg/	exact	2026-09-28
+elephant_foot_yam	kiasumart	yam	Fresh Elephant Foot Yam 1pcs	7.20	true	https://kiasumart.com/product/fresh-elephant-foot-yam-1pcs/	exact	2026-09-28
+mangalore_cucumber	kiasumart	cucumber	(no Mangalore/madras cucumber; regular cucumber only)			-	none	2026-09-28
+cucumber	kiasumart	cucumber	Fresh Cucumber 550g-650g	1.60	true	https://kiasumart.com/product/fresh-cucumber-550g-650g/	exact	2026-09-28
+raw_banana	kiasumart	banana	Fresh Raw Banana 2pcs	2.80	true	https://kiasumart.com/product/fresh-raw-banana-2pcs/	exact	2026-09-28
+brinjal_small	kiasumart	brinjal	Fresh Indian Brinjal 250g-300g	2.00	true	https://kiasumart.com/product/fresh-indian-brinjal-250g-300g/	exact	2026-09-28
+rasam_powder	kiasumart	rasam	Aachi Rasam Powder 100g	1.60	true	https://kiasumart.com/product/aachi-rasam-powder-100g/	exact	2026-09-28
+rasam_powder	kiasumart	rasam	777 Rasam Powder 100g	1.85	true	https://kiasumart.com/product/777-rasam-powder-100g/	exact	2026-09-28
+U:mixer_grinder	kiasumart	mixer grinder	(no results)			-	none	2026-09-28
+idli_rava	kiasumart	idli	Telugu Foods Idli Rava 500g	1.75	false	https://kiasumart.com/product/telugu-foods-idli-rava-500g/	exact	2026-09-28
+idli_rava	kiasumart	idli	Telugu Foods Idli Rava 1kg	2.70	false	https://kiasumart.com/product/telugu-foods-idli-rava-1kg/	exact	2026-09-28
+instant_idli_mix	kiasumart	idli	Gits Rice Idli Mix 200g	1.95	false	https://kiasumart.com/product/gits-rice-idli-mix-200g/	exact	2026-09-28
+ready_idli_dosa_batter	kiasumart	idli	Rusi Idli & Dosa Batter 1.5kg	3.20	false	https://kiasumart.com/product/rusi-idli-dosa-batter-1-5kg/	exact	2026-09-28
+ready_idli_dosa_batter	kiasumart	idli	Taj Mahal Iddly / Idly / Idli & Dosa Batter 1kg	3.30	false	https://kiasumart.com/product/taj-mahal-iddly-idly-idli-dosa-batter-1kg/	exact	2026-09-28
+sambar_powder	kiasumart	sambar	Aachi Sambar Powder 100g	1.75	true	https://kiasumart.com/product/aachi-sambar-powder-100g/	exact	2026-09-28
+sambar_powder	kiasumart	sambar	Sakthi Sambar Powder 1kg	10.35	true	https://kiasumart.com/product/sakthi-sambar-powder-1kg/	exact	2026-09-28
+jaggery	kiasumart	jaggery	Pattu Jaggery Round 500g	2.20	true	https://kiasumart.com/product/pattu-jaggery-round-500g/	exact	2026-09-28
+jaggery	kiasumart	jaggery	SSR Jaggery Balls 500g	2.15	true	https://kiasumart.com/product/ssr-jaggery-balls-500g/	exact	2026-09-28
+ghee	kiasumart	ghee	Milky Mist Ghee Jar 200ml	3.65	true	https://kiasumart.com/product/milky-mist-ghee-jar-200ml/	exact	2026-09-28
+ghee	kiasumart	ghee	Udhaya Krishna Ghee 500ml	9.90	true	https://kiasumart.com/product/udhaya-krishna-ghee-500ml/	exact	2026-09-28
+curd_yogurt	kiasumart	curd	Hatsun Curd Yoghurt 400g	2.00	true	https://kiasumart.com/product/hatsun-curd-400-best-price-in-singapore-at-kiasumart/	exact	2026-09-28
+curd_yogurt	kiasumart	curd	Hatsun Curd Yoghurt 1Kg	5.00	true	https://kiasumart.com/product/hatsun-curd-1-kg-best-price-in-singapore-at-kiasumart/	exact	2026-09-28
+curd_chillies	kiasumart	curd	SSR Dried Curd Chillies 100g	1.40	true	https://kiasumart.com/product/ssr-dried-curd-chillies-100g/	exact	2026-09-28
+curd_chillies	kiasumart	curd	Ambikas Dry Curd Chilli Long 100g	1.20	false	https://kiasumart.com/product/ambikas-dry-curd-chilli-long-100g/	exact	2026-09-28
+sesame_oil	kiasumart	gingelly	Varahi Chekku Gingelly Oil 1L	9.50	true	https://kiasumart.com/product/varahi-chekku-gingelly-oil-1l/	exact	2026-09-28
+groundnut_oil	kiasumart	groundnut	SSR Wood Pressed Groundnut Oil 500ml	5.85	true	https://kiasumart.com/product/ssr-wood-pressed-groundnut-oil-500ml/	exact	2026-09-28
+peanuts	kiasumart	groundnut	Pattu Groundnut 500g	2.35	false	https://kiasumart.com/product/pattu-groundnut-500g/	exact	2026-09-28
+peanuts	kiasumart	groundnut	SSR Raw Groundnut Whole 1kg	5.60	false	https://kiasumart.com/product/ssr-raw-groundnut-whole-1kg/	exact	2026-09-28
+cashews	kiasumart	cashew	Pattu Cashew Nuts 250g	4.80	true	https://kiasumart.com/product/pattu-cashew-nuts-250g/	exact	2026-09-28
+mustard_seeds	kiasumart	mustard	SSR Mustard Seeds 100g	1.20	true	https://kiasumart.com/product/ssr-mustard-seed-100g/	exact	2026-09-28
+mustard_seeds	kiasumart	mustard	Virasat Mustard Seeds 1kg	4.50	true	https://kiasumart.com/product/virasat-mustard-seeds-1kg/	exact	2026-09-28
+fenugreek_seeds	kiasumart	fenugreek	SSR Fenugreek Seed 100g	1.20	true	https://kiasumart.com/product/ssr-fenugreek-seed-100g/	exact	2026-09-28
+fenugreek_seeds	kiasumart	fenugreek	SSR Fenugreek Seeds 250g	2.50	true	https://kiasumart.com/product/ssr-fenugreek-seeds-250g/	exact	2026-09-28
+black_peppercorns	kiasumart	pepper	Pattu Black Pepper Powder 100g	2.80	true	https://kiasumart.com/product/pattu-black-pepper-powder-100g/	variant	2026-09-28
+black_peppercorns	kiasumart	pepper	(no whole black peppercorn in top 8)			-	none	2026-09-28
+red_chilli_powder	kiasumart	chilli	Aachi Red Chilli Powder 100g	2.05	true	https://kiasumart.com/product/aachi-red-chilli-powder-100g/	exact	2026-09-28
+red_chilli_powder	kiasumart	chilli	Pattu Red Chilli Powder 200g	1.85	true	https://kiasumart.com/product/pattu-red-chilli-powder-200g/	exact	2026-09-28
+kashmiri_chilli	kiasumart	chilli	777 Kashmiri Chilli Powder 100g	1.85	true	https://kiasumart.com/product/777-kashmiri-chilly-powder-100g/	variant	2026-09-28
+kashmiri_chilli	kiasumart	chilli	Sakthi Kashmiri Chilli Powder 200g	3.55	false	https://kiasumart.com/product/sakthi-kashmiri-chilli-powder-200g/	variant	2026-09-28
+dried_red_chilli	kiasumart	chilli	Pattu Stemless Dry Chilli 100g	1.65	true	https://kiasumart.com/product/pattu-stemless-dry-chilli-100g/	exact	2026-09-28
+dried_red_chilli	kiasumart	chilli	Bismi Dry Round Chilli 100g	1.90	false	https://kiasumart.com/product/bismi-dry-round-chilli-100g/	exact	2026-09-28
+turmeric_powder	kiasumart	turmeric	Pattu Turmeric Powder 200g	2.10	true	https://kiasumart.com/product/pattu-turmeric-powder-200g/	exact	2026-09-28
+onion	kiasumart	onion	Fresh Onion 2kg	3.55	true	https://kiasumart.com/product/fresh-onion-2kg/	exact	2026-09-28
+pumpkin	kiasumart	pumpkin	Fresh Pumpkin 900g-1kg	3.00	true	https://kiasumart.com/product/fresh-pumpkin-900g-1kg/	exact	2026-09-28
+carrot	kiasumart	carrot	Fresh Carrot 450g-500g	1.60	true	https://kiasumart.com/product/fresh-carrot-500g/	exact	2026-09-28
+french_beans	kiasumart	beans	Fresh French Beans 250g-300g	2.60	true	https://kiasumart.com/product/fresh-french-beans-250g-300g/	exact	2026-09-28
+green_chilli	kiasumart	green chilli	Fresh Green Chilli 150g-200g	1.90	true	https://kiasumart.com/product/fresh-green-chilli-200g/	exact	2026-09-28
+ginger	kiasumart	ginger	Fresh Ginger 1kg	4.80	true	https://kiasumart.com/product/fresh-ginger-1kg/	exact	2026-09-28
+ginger_garlic_paste	kiasumart	ginger	Aachi Ginger Garlic Paste 300g	2.05	false	https://kiasumart.com/product/aachi-ginger-garlic-paste-300g/	exact	2026-09-28
+garlic	kiasumart	garlic	(no fresh garlic in top 8; pastes/pickles only)			-	none	2026-09-28
+moong_dal_yellow	selvistores	moong	Moong Dalh (pack size not stated)	1.80	true	/products/moong-dalh	exact	2026-09-28
+gongura_leaves	selvistores	gongura	(no match; search returned unrelated items)			-	none	2026-09-28
+gongura_leaves	farms2home	gongura	(no fresh leaves; pickles only)			-	none	2026-09-28
+gongura_pickle	farms2home	gongura	Priya Gongura Onion Pickle	2.70	false	https://farms2home.sg/pickles-readymix/pickles/priya-gongura-onion-pickle/	exact	2026-09-28
+mangalore_cucumber	farms2home	cucumber	(no results)			-	none	2026-09-28
+gongura_leaves	sgwetmarket	gongura	(no match; returned ridge gourd only)			-	none	2026-09-28
+U:mixer_grinder	karthika	category:Mixer-Grinder	Bajaj Majesty 550 Mixer Grinder	88.50	true	https://www.karthika.sg/Bajaj-Majesty-550-Mixer-Grinder	exact	2026-09-28
+U:mixer_grinder	karthika	category:Mixer-Grinder	Bajaj Mixer Grinder Bravo Deluxe 500Watts	95.00	true	https://www.karthika.sg/Bajaj-Mixer-Grinder-Bravo-Deluxe-500Watts	exact	2026-09-28
+U:mixer_grinder	karthika	category:Mixer-Grinder	Preethi Xpro Duo Mixer 1300W Mg198 No Warranty	210.00	true	https://www.karthika.sg/Preethi-Xpro-Duo-Mixer-1300W-Mg198-No-Warranty	exact	2026-09-28
+U:mixer_grinder	karthika	category:Mixer-Grinder	Butterfly Grand Mixer Grinder White 2 Jar	55.00	false	https://www.karthika.sg/Butterfly-Grand-Mixer-Grinder-White-2-Jar	exact	2026-09-28
+U:wet_grinder	karthika	category:Mixer-Grinder	Bajaj Wet Grainder Wx3	195.00	true	https://www.karthika.sg/Bajaj-Wet-Grainder-Wx3	exact	2026-09-28
+U:wet_grinder	karthika	category:Mixer-Grinder	Prestige Wet Grinder 2 Ltr Pwg-07(No Warranty)	160.00	true	https://www.karthika.sg/Prestige-Wet-Grinder-2-Ltr-Pwg-07(No-Warranty)	exact	2026-09-28
+U:blender	karthika	category:Mixer-Grinder	Nushi Nushi Blender Nsb-311	35.00	true	https://www.karthika.sg/Nushi-Nushi-Blender-Nsb-311	exact	2026-09-28
+curry_leaves	fairprice	search-index:curry leaves	Simply Finest Curry Leaf 50g		unverified	https://www.fairprice.com.sg/product/simply-finest-curry-leaf-50g-11659118	exact	2026-09-28
+curry_leaves	fairprice	search-index:curry leaves	Orgo Fresh Curry Leaves (Curry Leaf) 120 g		unverified	https://www.fairprice.com.sg/product/orgo-fresh-curry-leaves-curry-leaf-120-g-90156382	exact	2026-09-28
+drumstick	fairprice	search-index:drumstick moringa	(only moringa powder/capsules and chicken drumsticks indexed; no fresh moringa pods)			-	none	2026-09-28
+idli_rice	fairprice	search-index:idli rice	Ambikas Idly Rice 1 kg		unverified	https://www.fairprice.com.sg/product/ambikas-idly-rice-1-kg-90027781	exact	2026-09-28
+idli_rice	fairprice	search-index:idli rice	Anarkali Idly Rice 5 kg		unverified	https://www.fairprice.com.sg/product/anarkali-idly-rice-5-kg-90031569	exact	2026-09-28
+jasmine_rice	fairprice	search-index:thai hom mali	FairPrice Thai Hom Mali Superior Fragrant Rice 5kg		unverified	https://www.fairprice.com.sg/product/fairprice-gold-thai-hom-malt-superior-fragrant-rice-5kg-13097848	exact	2026-09-28
+jasmine_rice	fairprice	search-index:thai hom mali	Royal Umbrella Thai Hom Mali Rice		unverified	https://www.fairprice.com.sg/product/royal-umbrella-thai-hom-mali-rice-13111322	exact	2026-09-28
+taro	fairprice	search-index:yam taro	Grozer Fragrant Fresh Thailand Taro / Yam 380 g		unverified	https://www.fairprice.com.sg/product/grozer-fragrant-fresh-thailand-taro-yam-380-g-90066309	exact	2026-09-28
+gongura_leaves	fairprice	search-index:roselle gongura	(no fresh gongura/roselle leaves indexed; pickle only)			-	none	2026-09-28
+gongura_pickle	fairprice	search-index:roselle gongura	Ruchi Gongura Leaves Pickle 300 g		unverified	https://www.fairprice.com.sg/product/ruchi-gongura-leaves-pickle-300-g-90003946	exact	2026-09-28
+fresh_grated_coconut	fairprice	search-index:grated coconut	JJW Fresh Grated Coconut 250g		unverified	https://www.fairprice.com.sg/product/jjw-fresh-grated-coconut-250g-13024315	exact	2026-09-28
+fresh_grated_coconut	fairprice	search-index:grated coconut	Sumeru Grated Coconut 445 g (frozen)		unverified	https://www.fairprice.com.sg/product/sumeru-grated-coconut-445-g-90039730	exact	2026-09-28
+desiccated_coconut	fairprice	search-index:grated coconut	Bake King Desiccated Coconut 120g		unverified	https://www.fairprice.com.sg/product/bake-king-desiccated-coconut-120g-11239500	exact	2026-09-28
+asafoetida	fairprice	search-index:asafoetida	LG Asafoetida Powder 100G -- By Dashmesh		unverified	https://www.fairprice.com.sg/product/lg-asafoetida-powder-100g-by-dashmesh-100-g-90056525	exact	2026-09-28
+asafoetida	fairprice	search-index:asafoetida	Anarkali Compounded Asafoetida Powder 100 g		unverified	https://www.fairprice.com.sg/product/anarkali-compounded-asafoetida-powder-100-g-90131704	exact	2026-09-28
+toor_dal	fairprice	search-index:toor dal	Toor Dhall (importer Sri Ambikas Pte Ltd)		unverified	https://www.fairprice.com.sg/product/toor-dhall	exact	2026-09-28
+drumstick	fairprice	search-index:drumstick india	Pasar India Drumstick		unverified	https://www.fairprice.com.sg/product/13141978	exact	2026-09-28
+U:pressure_cooker	fairprice	search-index:pressure cooker	PowerPac Pressure Cooker (PPC411)		unverified	https://www.fairprice.com.sg/product/powerpac-ppc411-pressure-cooker-1-pc-90036830	exact	2026-09-28
+U:electric_pressure_cooker	fairprice	search-index:pressure cooker	Mayer 6L MultiCooker Electric Pressure Cooker MMPC6062A		unverified	https://www.fairprice.com.sg/product/mayer-6l-multicooker-electric-pressure-cooker-mmpc6062a	exact	2026-09-28
+moong_dal_yellow	fairprice	search-index:moong dal	Anarkali Moong Dhall 1kg		unverified	https://www.fairprice.com.sg/product/anarkali-moong-dhall-1kg-90031644	exact	2026-09-28
+moong_dal_yellow	fairprice	search-index:moong dal	Natureland Organics Moong Split 500 g		unverified	https://www.fairprice.com.sg/product/natureland-organics-moong-split-500-g-90035896	exact	2026-09-28
+urad_dal	fairprice	search-index:moong dal	24 Mantra Organic Urad Dal White Whole 500 g		unverified	https://www.fairprice.com.sg/product/24-mantra-organic-urad-dal-white-whole-500-g-90008932	exact	2026-09-28
+poha	fairprice	search-index:poha	Ambikas Poha (Rice Flakes) 500g		unverified	https://www.fairprice.com.sg/product/ambikas-poha-rice-flakes-1-x-500g-90023975	exact	2026-09-28
+poha	fairprice	search-index:poha	Shahi Golden Rice Flakes (Poha) - Thick		unverified	https://www.fairprice.com.sg/product/shahi-golden-rice-flakes-poha-thick-by-shivsagar-trading-3-x-500g-90008928	exact	2026-09-28
+mangalore_cucumber	web	search:mangalore/madras cucumber Singapore	(no Singapore retailer or market listing found; results are India-only recipes/seed sellers)			-	none	2026-09-28
+gongura_leaves	fairprice	search-index:roselle	Laobanniang Dried Roselle 200 g (calyces, not leaves)		unverified	https://www.fairprice.com.sg/product/laobanniang-dried-roselle-200-g-90060317	variant	2026-09-28
+gongura_leaves	horti_sg	search:roselle seeds Singapore	Roselle seeds (grow-your-own route; Hibiscus sabdariffa = gongura plant)		unverified	https://horti.sg/product/roselle/	variant	2026-09-28
+U:mortar_pestle	waangoo	mixer grinder	Idi Kal Stone Mortar With SS Handle - 1 pc	17.99	true	/products/idi-kal-pestle-mortar-1-pc	exact	2026-09-28

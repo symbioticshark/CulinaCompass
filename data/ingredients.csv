@@ -1,0 +1,78 @@
+ingredient_id,canonical_name,category,role,storage,is_vegetarian,is_vegan,sfa_allergens,other_sensitivities,gluten_risk,jain_ok,density_g_per_ml,typical_piece_g,notes
+idli_rice,Idli rice (parboiled short-grain),grain,core,dry,yes,yes,,,none,yes,,,Parboiled rice for fermented batter
+sona_masoori_rice,Sona masoori raw rice,grain,core,dry,yes,yes,,,none,yes,,,Default everyday South Indian raw rice; ponni is a Tamil alternative
+poha,Poha / aval (thick flattened rice),grain,core,dry,yes,yes,,,none,yes,,,Softens idli/dosa batter
+rava_semolina,Bombay rava (fine wheat semolina / sooji),grain,core,dry,yes,yes,gluten_cereal,,contains,yes,,,Wheat product - excluded for gluten-free
+urad_dal,Urad dal (white skinned; split or whole gota),pulse,core,dry,yes,yes,,,none,yes,,,Whole gota and split are interchangeable for batters; black-skinned urad is a different form
+chana_dal,Chana dal (split Bengal gram),pulse,core,dry,yes,yes,,,none,yes,,,
+toor_dal,Toor dal (split pigeon peas),pulse,core,dry,yes,yes,,,none,yes,,,
+moong_dal_yellow,Moong dal (split skinned yellow),pulse,core,dry,yes,yes,,,none,yes,,,Green split moong (with skin) is a variant
+green_moong_whole,Whole green moong (green gram),pulse,core,dry,yes,yes,,,none,yes,,,Pesarattu base
+peanuts,Peanuts / groundnuts (raw),nut_seed,core,dry,yes,yes,peanut,,none,yes,,,SFA-declarable allergen
+cashews,Cashew nuts,nut_seed,core,dry,yes,yes,tree_nut,,none,yes,,1.5,SFA-declarable allergen (tree nut)
+sesame_seeds_white,White sesame seeds,nut_seed,core,dry,yes,yes,,sesame,none,yes,,,Sesame is not on Singapore's mandatory allergen list but is a common allergen
+mustard_seeds,Mustard seeds (black/brown),spice_whole,core,dry,yes,yes,,mustard,none,yes,,,
+cumin_seeds,Cumin seeds (jeera),spice_whole,core,dry,yes,yes,,,none,yes,,,
+fenugreek_seeds,Fenugreek seeds (methi),spice_whole,core,dry,yes,yes,,,none,yes,,,
+coriander_seeds,Coriander seeds (dhania),spice_whole,core,dry,yes,yes,,,none,yes,,,
+black_peppercorns,Black peppercorns,spice_whole,core,dry,yes,yes,,,none,yes,,,Ground pepper is a variant
+dried_red_chilli,Dried red chillies (whole),spice_whole,core,dry,yes,yes,,,none,yes,,0.5,
+kashmiri_chilli,Kashmiri dried red chilli (whole; mild; for colour),spice_whole,core,dry,yes,yes,,,none,yes,,0.5,Kashmiri chilli powder is a variant
+cinnamon,Cinnamon stick,spice_whole,core,dry,yes,yes,,,none,yes,,,
+cloves,Cloves,spice_whole,core,dry,yes,yes,,,none,yes,,0.1,
+green_cardamom,Green cardamom pods,spice_whole,core,dry,yes,yes,,,none,yes,,0.2,
+asafoetida,Asafoetida / hing (compounded powder),spice_ground,core,dry,yes,yes,gluten_cereal,,may_contain,yes,,,Compounded hing is usually cut with wheat flour; check label or omit for gluten-free (source: internationalglutenfree.com/post/hidden-gluten-hing)
+turmeric_powder,Turmeric powder,spice_ground,core,dry,yes,yes,,,none,yes,,,Dried powder is Jain-acceptable in common practice; fresh turmeric root is not
+red_chilli_powder,Red chilli powder,spice_ground,core,dry,yes,yes,,,none,yes,,,
+sambar_powder,Sambar powder (store-bought blend),spice_blend,core,dry,yes,yes,gluten_cereal,,may_contain,yes,,,Blends often contain compounded hing - check label
+rasam_powder,Rasam powder (store-bought blend),spice_blend,core,dry,yes,yes,gluten_cereal,,may_contain,yes,,,Blends often contain compounded hing - check label
+curry_leaves,Curry leaves (fresh),fresh_herb,core,chilled,yes,yes,,,none,yes,,1,Unit: 1 sprig ~ 1 g
+green_chilli,Green chillies (Indian long),fresh_herb,core,chilled,yes,yes,,,none,yes,,5,Thai chilli padi is a much hotter variant
+ginger,Fresh ginger,fresh_herb,core,chilled,yes,yes,,,none,no,,,Rhizome - avoided in strict Jain diets (root/underground)
+garlic,Garlic,fresh_herb,core,dry,yes,yes,,,none,no,,4,Excluded in Jain diet (source: en.wikipedia.org/wiki/Jain_vegetarianism)
+coriander_leaves,Coriander leaves (cilantro),fresh_herb,core,chilled,yes,yes,,,none,yes,,,
+lemon,Lemon (or lime),fruit_acid,core,fresh,yes,yes,,,none,yes,,60,1 medium lemon ~ 2-3 tbsp juice
+onion,Onion (big/red),vegetable,core,dry,yes,yes,,,none,no,,110,Excluded in Jain diet
+shallots,Shallots / small onions (sambar onion),vegetable,core,dry,yes,yes,,,none,no,,10,Excluded in Jain diet
+tomato,Tomato,vegetable,core,fresh,yes,yes,,,none,yes,,100,
+carrot,Carrot,vegetable,core,chilled,yes,yes,,,none,no,,60,Root vegetable - excluded in Jain diet
+drumstick,Drumstick / moringa pod (vegetable),vegetable,core,chilled,yes,yes,,,none,yes,,70,ALIAS COLLISION: 'drumstick' search returns chicken drumsticks at Singapore retailers
+okra,Okra / lady's finger / bhindi,vegetable,core,chilled,yes,yes,,,none,yes,,12,
+brinjal_small,Small Indian brinjal (young purple eggplant),vegetable,core,chilled,yes,yes,,,none,no,,50,Multi-seeded vegetable - excluded in strict Jain diet (source: en.wikipedia.org/wiki/Jain_vegetarianism)
+ash_gourd,Ash gourd / winter melon (white pumpkin),vegetable,core,fresh,yes,yes,,,none,yes,,1200,Sold whole in Singapore as 'winter melon'
+pumpkin,Pumpkin (yellow),vegetable,core,fresh,yes,yes,,,none,yes,,900,
+elephant_foot_yam,Elephant foot yam (suran / senai / kanda),vegetable,core,fresh,yes,yes,,,none,no,,550,Root - excluded in Jain diet. In Singapore 'yam' usually means TARO - a different vegetable
+mangalore_cucumber,Mangalore / Madras cucumber (dosakaya / southekai),vegetable,core,fresh,yes,yes,,,none,yes,,500,
+raw_banana,Raw green banana / plantain,vegetable,core,fresh,yes,yes,,,none,yes,,150,
+french_beans,French beans,vegetable,core,chilled,yes,yes,,,none,yes,,,
+cucumber,Cucumber (regular),vegetable,core,chilled,yes,yes,,,none,yes,,300,
+gongura_leaves,Gongura / roselle / red sorrel leaves (fresh),vegetable,core,chilled,yes,yes,,,none,yes,,,Hibiscus sabdariffa leaves; native to India and Malaysia per specialtyproduce.com
+green_peas,Green peas,vegetable,core,chilled,yes,yes,,,none,yes,,,
+fresh_grated_coconut,Grated coconut (fresh or frozen),coconut,core,chilled,yes,yes,,coconut,none,yes,,,Coconut is not on Singapore's tree-nut allergen list; flagged separately
+curd_yogurt,Curd / plain yogurt (dahi),dairy,core,chilled,yes,no,milk,,none,conditional,1.03,,Strict Jain practice: freshly set and consumed same day (source: en.wikipedia.org/wiki/Jain_vegetarianism)
+ghee,Ghee (clarified butter),dairy,core,dry,yes,no,milk,,none,yes,0.91,,
+cooking_oil,Neutral cooking oil (sunflower / vegetable),fat_oil,core,dry,yes,yes,,,none,yes,0.92,,
+coconut_oil,Coconut oil,fat_oil,core,dry,yes,yes,,coconut,none,yes,0.92,,
+sesame_oil,Sesame / gingelly oil (Indian untoasted),fat_oil,core,dry,yes,yes,,sesame,none,yes,0.92,,Do NOT substitute Chinese toasted sesame oil 1:1 - very different flavour
+jaggery,Jaggery (cane),sweetener,core,dry,yes,yes,,,none,yes,,,
+tamarind,Tamarind (block/pulp),fruit_acid,core,dry,yes,yes,,,none,yes,,,Sold in Singapore as 'asam jawa'; concentrate paste is a variant form
+salt,Salt (non-iodised preferred for batters),condiment,core,dry,yes,yes,,,none,yes,,,
+curd_chillies,Curd chillies (majjiga mirapakayalu / mor milagai),condiment,core,dry,yes,no,milk,,none,yes,,1,Chillies soaked in salted buttermilk then sun-dried - NOT vegan
+vadiyalu,Lentil vadiyalu / vadagam (sun-dried urad or moong dumplings),condiment,core,dry,yes,yes,,,none,conditional,,,Rice/onion vadagam are variants; onion versions not Jain
+ginger_garlic_paste,Ginger-garlic paste,condiment,core,chilled,yes,yes,,,none,no,,,
+idli_rava,Idli rava (coarse parboiled rice rava),grain,substitute_only,dry,yes,yes,,,none,yes,,,Shortcut for idli rice - no rice grinding needed
+instant_idli_mix,Instant rice idli mix,prepared,substitute_only,dry,yes,yes,,,may_contain,yes,,,Check label for wheat
+ready_idli_dosa_batter,Ready idli/dosa batter (chilled),prepared,substitute_only,chilled,yes,yes,,,none,yes,,,Removes need for a grinder
+ready_idli_frozen,Ready cooked idli (frozen),prepared,substitute_only,frozen,yes,yes,,,none,yes,,,
+gongura_pickle,Gongura pickle (store-bought),prepared,substitute_only,dry,yes,yes,,,may_contain,no,,,Most commercial versions contain garlic; check label for hing
+desiccated_coconut,Desiccated coconut (unsweetened),coconut,substitute_only,dry,yes,yes,,coconut,none,yes,,,Soak in warm water ~5-7 min before grinding (source: madhuseverydayindian.com)
+coconut_milk,Coconut milk,coconut,substitute_only,chilled,yes,yes,,coconut,none,yes,1.0,,
+basmati_rice,Basmati rice,grain,substitute_only,dry,yes,yes,,,none,yes,,,Recipe-endorsed for lemon rice (aged basmati)
+jasmine_rice,Thai hom mali / jasmine rice,grain,substitute_only,dry,yes,yes,,,none,yes,,,Singapore's default household rice (SingStat tracks 'Premium Thai Rice')
+frozen_drumstick,Frozen cut drumsticks (moringa),vegetable,substitute_only,frozen,yes,yes,,,none,yes,,,
+zucchini,Zucchini,vegetable,substitute_only,chilled,yes,yes,,,none,yes,,250,
+taro,Taro (Singapore 'yam'),vegetable,substitute_only,fresh,yes,yes,,,none,no,,,
+spinach,Spinach,vegetable,substitute_only,chilled,yes,yes,,,none,yes,,,
+raw_mango,Raw green mango,fruit_acid,substitute_only,fresh,yes,yes,,,none,yes,,300,
+gula_melaka,Gula melaka (coconut palm sugar),sweetener,substitute_only,dry,yes,yes,,coconut,none,yes,,,Coconut sugar is a 1:1 jaggery substitute (source: substituteingredient.com)
+groundnut_oil,Groundnut / peanut oil,fat_oil,substitute_only,dry,yes,yes,peanut,,none,yes,0.92,,Refined peanut oil is usually tolerated but flag for peanut allergy

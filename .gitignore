@@ -1,0 +1,5 @@
+culinacompass.env
+.culinacompass.env
+.venv/
+__pycache__/
+.DS_Store

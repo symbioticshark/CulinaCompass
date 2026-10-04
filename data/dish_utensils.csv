@@ -1,0 +1,34 @@
+dish_id,utensil_id,necessity,alternatives,source_note
+idli,wet_grinder,one_of_required,mixer_grinder|blender,Recipe lists blender or wet grinder for batter
+idli,mixer_grinder,one_of_required,wet_grinder|blender,Recipe lists blender or wet grinder for batter
+idli,idli_steamer,required,steamer_pot|electric_pressure_cooker|pressure_cooker,Recipe: idli plates/stand in steamer or pressure cooker or Instant Pot; hebbarskitchen: banana-leaf cups in any steamer
+dosa,mixer_grinder,one_of_required,wet_grinder|blender,Recipe: blender grinder or wet grinder
+dosa,wet_grinder,one_of_required,mixer_grinder|blender,Recipe: blender grinder or wet grinder
+dosa,dosa_tawa,required,frying_pan,Recipe: dosa tawa/griddle/pan (cast iron non-stick granite or ceramic)
+medu_vada,mixer_grinder,one_of_required,wet_grinder|blender,Recipe: mixer grinder/blender or wet grinder
+medu_vada,wet_grinder,one_of_required,mixer_grinder|blender,Recipe: mixer grinder/blender or wet grinder
+medu_vada,kadai,required,saucepan,Deep frying; recipe: deep pan/kadai
+coconut_chutney,mixer_grinder,required,blender,Recipe: grinder
+coconut_chutney,tadka_pan,recommended,frying_pan,Recipe: medium pan
+sambar,pressure_cooker,recommended,electric_pressure_cooker|saucepan,Recipe: 'If you do not have a cooker then cook in a pot adding more water as needed'
+sambar,mixer_grinder,recommended,blender|mortar_pestle,Only needed for homemade sambar powder; skip with store-bought powder
+sambar,tadka_pan,recommended,frying_pan,Recipe: small pan
+tomato_rasam,mixer_grinder,recommended,mortar_pestle|blender,Dry spice grinder for rasam powder; or use 2 tsp store-bought rasam powder
+tomato_rasam,saucepan,required,,Pot
+ven_pongal,pressure_cooker,recommended,electric_pressure_cooker|saucepan,Recipe: pressure cooker or pot or Instant Pot
+ven_pongal,tadka_pan,recommended,frying_pan,Recipe: tadka pan
+rava_upma,kadai,recommended,frying_pan|saucepan,Recipe: pan/pot
+lemon_rice,pressure_cooker,optional,electric_pressure_cooker|saucepan,Rice cooked in pot/cooker/Instant Pot
+lemon_rice,kadai,recommended,frying_pan,Recipe: pan
+pulihora,pressure_cooker,optional,electric_pressure_cooker|saucepan,Rice cooking
+pulihora,kadai,recommended,frying_pan,Recipe: pan
+curd_rice,pressure_cooker,optional,electric_pressure_cooker|saucepan,Rice cooked soft in cooker
+curd_rice,tadka_pan,recommended,frying_pan,Recipe: pan
+pesarattu,mixer_grinder,required,blender,Recipe: blender/mixer jar
+pesarattu,dosa_tawa,required,frying_pan,Recipe: tawa or non-stick/cast iron pan
+gongura_pachadi,mixer_grinder,required,blender|mortar_pestle,Recipe: grinder
+gongura_pachadi,kadai,recommended,frying_pan,Recipe: pan
+avial,mixer_grinder,required,blender,Recipe: grinder jar or blender
+avial,saucepan,required,,Recipe: pan or pot with lid
+gutti_vankaya_kura,mixer_grinder,required,blender|mortar_pestle,Recipe: grinder for stuffing powder
+gutti_vankaya_kura,kadai,recommended,frying_pan,Recipe: pan/skillet

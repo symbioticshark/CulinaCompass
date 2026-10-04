@@ -1,0 +1,15 @@
+utensil_id,name,category,is_basic_kit,sg_power_note,notes
+pressure_cooker,Stovetop pressure cooker (Indian whistle type),cookware,no,,Hawkins/Vinod/Prestige style; check induction compatibility - many Singapore HDB kitchens use induction or gas
+electric_pressure_cooker,Electric pressure / multi-cooker (Instant Pot type),appliance,no,Singapore mains 230V 50Hz; plug type G,Recipes on source sites give Instant Pot methods for dal and idli
+mixer_grinder,Indian mixer grinder (multi-jar),appliance,no,Singapore mains 230V 50Hz; plug type G - India-market units (type D/M plug) need an adapter and may have no local warranty,Karthika lists 'No Local Warranty' on imported Preethi units
+wet_grinder,Tabletop wet grinder (stone),appliance,no,Singapore mains 230V 50Hz; plug type G,Best for idli/vada batter volume and texture
+blender,High-speed blender,appliance,no,Singapore mains 230V 50Hz; plug type G,Recipe-endorsed fallback for batters and chutneys
+mortar_pestle,Stone mortar and pestle (idi kal / ammikallu),hand_tool,no,,Fallback for small spice powders
+idli_steamer,Idli stand / idli cooker with moulded plates,cookware,no,,
+steamer_pot,Tiered steamer pot,cookware,no,,Common in Singapore kitchens; idli can be steamed in small bowls or banana-leaf cups
+dosa_tawa,Flat dosa tawa / griddle (cast iron or non-stick),cookware,no,,A large flat non-stick frying pan is a workable fallback
+kadai,Kadai / wok (deep),cookware,no,,A Chinese wok (common in Singapore) serves the same purpose
+tadka_pan,Small tempering (tadka) pan,cookware,no,,Any small frying pan works
+saucepan,Saucepan / pot with lid,cookware,yes,,Assumed basic kit - not graded for availability
+frying_pan,Frying pan / skillet,cookware,yes,,Assumed basic kit - not graded for availability
+stove,Hob (gas or induction),appliance,yes,,Assumed present - note induction needs compatible (magnetic) base

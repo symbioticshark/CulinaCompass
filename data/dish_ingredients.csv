@@ -1,0 +1,206 @@
+dish_id,ingredient_id,component,qty_text,qty_g,is_optional,is_signature,alt_group,recipe_alternative_text,conversion_note
+idli,urad_dal,batter,½ cup urad dal or skinned black gram,100,no,yes,,,0.5 cup x 200 g/cup (dosa recipe states ½ cup = 100 g)
+idli,idli_rice,batter,1 cup idli rice (or parboiled rice) or (1 cup + 2 tbsp idli rava),200,no,yes,,or 1 cup + 2 tbsp idli rava,1 cup x 200 g
+idli,poha,batter,2 tablespoon thick poha or ½ tsp fenugreek seeds,15,no,no,A,or ½ tsp fenugreek seeds,2 tbsp = 15 g (dosa recipe)
+idli,fenugreek_seeds,batter,½ tsp fenugreek seeds (alternative to poha),2,no,no,A,alternative to poha,0.5 tsp x 4 g
+idli,salt,batter,½ teaspoon non-iodized salt,3,no,no,,,0.5 tsp x 6 g
+dosa,urad_dal,batter,½ cup (100 grams) urad dal,100,no,yes,,,stated in recipe
+dosa,chana_dal,batter,2 tablespoons (25 grams) chana dal,25,no,no,,,stated in recipe
+dosa,sona_masoori_rice,batter,1½ cups (315 grams) raw rice (sona masuri),315,no,yes,,,stated in recipe
+dosa,poha,batter,2 tablespoons (15 grams) poha,15,no,no,,,stated in recipe
+dosa,fenugreek_seeds,batter,½ teaspoon (2.5 grams) methi seeds,2.5,no,no,,,stated in recipe
+dosa,salt,batter,½ teaspoon sea salt,3,no,no,,,0.5 tsp x 6 g
+dosa,cooking_oil,cooking,oil for greasing (not quantified in card),20,no,no,,,estimate for 12 dosas
+medu_vada,urad_dal,batter,1 cup urad dal,200,no,yes,,,1 cup x 200 g
+medu_vada,salt,batter,⅓ teaspoon salt,2,no,no,,,
+medu_vada,cooking_oil,frying,oil for deep frying,60,no,no,,,absorbed oil estimate; ~500 ml needed in pan
+medu_vada,black_peppercorns,batter,¼ to ½ teaspoon pepper corn crushed,1,yes,no,,,
+medu_vada,green_chilli,batter,2 to 3 green chilies chopped,12,yes,no,,,2.5 x 5 g
+medu_vada,onion,batter,4 tablespoon onions chopped (1 small),60,yes,no,,,
+medu_vada,curry_leaves,batter,1 sprig curry leaves chopped,1,yes,no,,,
+medu_vada,cumin_seeds,batter,½ teaspoon cumin seeds,1,yes,no,,,
+medu_vada,ginger,batter,1 teaspoon ginger fine grated,5,yes,no,,,
+coconut_chutney,fresh_grated_coconut,base,100 grams (1 cup) raw coconut (grated frozen or fresh),100,no,yes,,grated frozen or fresh,stated in recipe
+coconut_chutney,chana_dal,base,1½ tablespoons chana dal (Bengal gram or use 2 tbsps peanuts),19,no,no,,or use 2 tbsps peanuts,1.5 tbsp x 12.5 g
+coconut_chutney,urad_dal,base,½ tablespoon urad dal (substitute with chana dal),6,no,no,,substitute with chana dal,
+coconut_chutney,green_chilli,base,2 to 4 green chilies,15,no,no,,,3 x 5 g
+coconut_chutney,cumin_seeds,base,¾ to 1 teaspoon cumin seeds,2,no,no,,,
+coconut_chutney,curry_leaves,tempering,1 to 2 sprigs curry leaves,1.5,no,no,,,
+coconut_chutney,garlic,base,3 to 4 small garlic cloves (or 2 medium),10,no,no,,,
+coconut_chutney,ginger,base,⅓ inch ginger (peeled optional),2,yes,no,,,
+coconut_chutney,cooking_oil,tempering,1 tablespoon oil,13,no,no,,,
+sambar,toor_dal,main,¾ cup toor dal,150,no,yes,,,0.75 cup x 200 g
+sambar,tamarind,main,1 to 2 tablespoon tamarind or tamarind paste,20,no,yes,,or tamarind paste,
+sambar,jaggery,main,1 tablespoon jaggery,15,yes,no,,,
+sambar,salt,main,¾ tablespoon salt,13,no,no,,,
+sambar,turmeric_powder,main,¼ teaspoon turmeric,1,no,no,,,
+sambar,red_chilli_powder,main,½ to ¾ teaspoon red chilli powder,2,yes,no,,,
+sambar,coriander_leaves,main,¼ cup coriander leaves chopped,4,no,no,,,
+sambar,onion,vegetables,1 medium onion diced or 12 to 15 shallots,110,no,no,B,or 12 to 15 shallots,1 medium onion
+sambar,shallots,vegetables,12 to 15 shallots (alternative to onion),130,no,no,B,alternative to onion,13.5 x 10 g
+sambar,tomato,vegetables,1 large tomato,180,no,no,,,
+sambar,carrot,vegetables,1 medium carrot diced,60,yes,no,,,
+sambar,drumstick,vegetables,1 to 2 vegetable drumsticks,105,no,no,,,1.5 x 70 g
+sambar,okra,vegetables,2 to 3 bhindi (okra),30,yes,no,,,
+sambar,green_chilli,vegetables,1 green chili slit,5,yes,no,,,
+sambar,ghee,tempering,1 tablespoon ghee or oil,13,no,no,C,or oil,
+sambar,cooking_oil,tempering,1 tablespoon oil (alternative to ghee),13,no,no,C,alternative to ghee,
+sambar,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+sambar,cumin_seeds,tempering+powder,½ tsp (tempering) + ½ tsp (powder),2,no,no,,,
+sambar,mustard_seeds,tempering,½ teaspoon mustard seeds,2,no,no,,,
+sambar,fenugreek_seeds,tempering+powder,1 pinch (tempering) + ¼ to ½ tsp (powder),1.5,no,no,,,
+sambar,asafoetida,tempering,⅛ teaspoon asafoetida,0.3,no,no,,,
+sambar,dried_red_chilli,tempering+powder,1 to 2 (tempering) + 4 to 5 (powder) dried red chilies,3,no,no,,,6 x 0.5 g
+sambar,coriander_seeds,powder,1 tablespoon coriander seeds,5,no,no,D,or store-bought sambar powder,
+sambar,chana_dal,powder,1 tablespoon chana dal,12.5,no,no,D,,
+sambar,urad_dal,powder,1 teaspoon urad dal,4,no,no,D,,
+tomato_rasam,tomato,main,1½ to 2 cups tomatoes (3 to 4 medium) - 300 grams,300,no,yes,,,stated in recipe
+tomato_rasam,ghee,tempering,1½ tablespoons ghee or oil,20,no,no,C,or oil,
+tomato_rasam,cooking_oil,tempering,1½ tablespoons oil (alternative to ghee),20,no,no,C,alternative to ghee,
+tomato_rasam,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+tomato_rasam,mustard_seeds,tempering,½ teaspoon mustard seeds,2,no,no,,,
+tomato_rasam,cumin_seeds,tempering+powder,¾ tsp (tempering) + 1½ tsp (powder),4.5,no,yes,,,
+tomato_rasam,fenugreek_seeds,tempering+powder,1 pinch + ¼ tsp methi seeds,1.2,yes,no,,skip if you don't have,
+tomato_rasam,asafoetida,tempering,1 pinch asafoetida,0.2,no,no,,,
+tomato_rasam,dried_red_chilli,tempering,1 dried red chili broken,0.5,yes,no,,,
+tomato_rasam,garlic,main,4 large cloves garlic crushed,20,no,no,,,4 x 5 g
+tomato_rasam,turmeric_powder,main,⅛ teaspoon turmeric,0.4,no,no,,,
+tomato_rasam,coriander_leaves,main,¼ cup coriander leaves,4,no,no,,,
+tomato_rasam,jaggery,main,1 tablespoon jaggery,15,yes,no,,,
+tomato_rasam,tamarind,main,1 teaspoon tamarind or paste,5,yes,no,,,
+tomato_rasam,kashmiri_chilli,powder,1 Kashmiri red chili broken,0.5,yes,no,D,or use 2 tsps rasam powder,
+tomato_rasam,black_peppercorns,powder,¼ to ½ teaspoon black pepper,1,no,yes,D,or use 2 tsps rasam powder,
+tomato_rasam,coriander_seeds,powder,1½ tablespoons coriander seeds,8,no,no,D,or use 2 tsps rasam powder,
+tomato_rasam,chana_dal,powder,1½ tablespoons chana dal,19,yes,no,D,or use 2 tsps rasam powder,
+ven_pongal,sona_masoori_rice,main,½ cup rice (100 grams any short rice),100,no,yes,,any short rice or millets oats quinoa,stated in recipe
+ven_pongal,moong_dal_yellow,main,½ cup moong dal (100 grams skinned split),100,no,yes,,,stated in recipe
+ven_pongal,salt,main,½ teaspoon salt,3,no,no,,,
+ven_pongal,ghee,tempering,2 to 3 tablespoons ghee (½ tbsp more for serving),40,no,yes,,,2.5 tbsp + 0.5 tbsp x 13 g
+ven_pongal,cashews,tempering,10 cashew nuts,15,yes,no,,,
+ven_pongal,cumin_seeds,tempering,¾ teaspoon cumin seeds,1.5,no,no,,,
+ven_pongal,black_peppercorns,tempering,½ teaspoon black pepper corn crushed,1.5,no,yes,,,
+ven_pongal,ginger,tempering,1 inch ginger,5,no,no,,,
+ven_pongal,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+ven_pongal,asafoetida,tempering,⅛ teaspoon asafoetida,0.3,no,no,,,
+ven_pongal,green_chilli,tempering,1 green chili slit,5,yes,no,,,
+rava_upma,rava_semolina,main,1 cup Rava (Bombay rava/sooji/semolina),170,no,yes,,,1 cup x 170 g
+rava_upma,cooking_oil,tempering,2 to 2½ tablespoons oil or ghee,30,no,no,,or ghee,
+rava_upma,mustard_seeds,tempering,½ teaspoon mustard seeds,2,no,no,,,
+rava_upma,cumin_seeds,tempering,½ teaspoon cumin seeds,1,yes,no,,,
+rava_upma,urad_dal,tempering,1 teaspoon split urad dal,4,no,no,,,
+rava_upma,chana_dal,tempering,1½ teaspoon chana dal,6,yes,no,,,
+rava_upma,peanuts,tempering,2 tablespoons peanuts,18,yes,no,E,,
+rava_upma,cashews,tempering,8 to 12 cashews (leave out if using peanuts),15,yes,no,E,you may leave out if using peanuts,
+rava_upma,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+rava_upma,asafoetida,tempering,1 pinch asafoetida,0.2,yes,no,,,
+rava_upma,onion,main,¼ cup onion chopped,40,no,no,,,
+rava_upma,green_chilli,main,1 to 2 green chili slit,7.5,no,no,,,
+rava_upma,ginger,main,½ inch ginger,3,yes,no,,,
+rava_upma,salt,main,½ to ¾ teaspoon salt,4,no,no,,,
+rava_upma,ghee,finish,2 teaspoon ghee,9,yes,no,,,
+rava_upma,lemon,finish,lemon juice to serve,15,yes,no,,,
+rava_upma,carrot,optional_veg,½ cup mixed vegetables (carrots beans peas),25,yes,no,,,split of ½ cup mixed veg
+rava_upma,french_beans,optional_veg,½ cup mixed vegetables (carrots beans peas),25,yes,no,,,split of ½ cup mixed veg
+rava_upma,green_peas,optional_veg,½ cup mixed vegetables (carrots beans peas),25,yes,no,,,split of ½ cup mixed veg
+lemon_rice,sona_masoori_rice,main,1½ cups raw rice (or aged basmati),300,no,yes,,or aged basmati,1.5 cup x 200 g
+lemon_rice,cooking_oil,main,2 tablespoon oil (coconut gingelly or any other),27,no,no,,coconut gingelly or any other,
+lemon_rice,peanuts,nuts,¼ cup peanuts or cashews,36,no,no,,or cashews,
+lemon_rice,mustard_seeds,tempering,¾ teaspoon mustard seeds,2.5,no,no,,,
+lemon_rice,chana_dal,tempering,1½ teaspoon chana dal,6,yes,no,,,
+lemon_rice,urad_dal,tempering,1 teaspoon urad dal,4,yes,no,,,
+lemon_rice,green_chilli,tempering,2 green chilies (or 2 dried red chilies),10,no,no,,or 2 dried red chilies,
+lemon_rice,ginger,tempering,½ tablespoon ginger chopped,4,no,no,,,
+lemon_rice,curry_leaves,tempering,1 to 2 sprigs fresh curry leaves,1.5,no,no,,,
+lemon_rice,turmeric_powder,tempering,½ teaspoon turmeric powder,1.5,no,no,,,
+lemon_rice,salt,tempering,½ teaspoon salt,3,no,no,,,
+lemon_rice,asafoetida,tempering,1 pinch hing,0.2,yes,no,,,
+lemon_rice,lemon,main,2 to 3 tablespoons lemon juice or lime juice (1 medium lemon),60,no,yes,,or lime juice,1 medium lemon
+pulihora,sona_masoori_rice,main,1½ cups aged rice,300,no,yes,,,1.5 cup x 200 g
+pulihora,sesame_oil,main,1 tablespoon sesame oil (or any cooking oil),13,no,no,,or any cooking oil,
+pulihora,turmeric_powder,main,¼ teaspoon turmeric,0.8,no,no,,,
+pulihora,salt,main,½ teaspoon salt,3,no,no,,,
+pulihora,tamarind,main,1 handful tamarind or 4 tbsp thick tamarind pulp,30,no,yes,,or 4 tbsp thick tamarind pulp,
+pulihora,jaggery,main,½ to 1 teaspoon jaggery,4,yes,no,,,
+pulihora,mustard_seeds,powder,½ teaspoon mustard powder (or roasted sesame powder),1.5,yes,no,,or roasted sesame seeds powder,
+pulihora,cooking_oil,tempering,2 tablespoons oil,27,no,no,,,
+pulihora,urad_dal,tempering,1 tablespoon urad dal,12,no,no,,,
+pulihora,chana_dal,tempering,1 tablespoon channa dal,12.5,no,no,,,
+pulihora,peanuts,tempering,¼ cup peanuts,36,no,no,,,
+pulihora,dried_red_chilli,tempering,2 red chilies broken,1,no,no,,,
+pulihora,green_chilli,tempering,2 green chilies slit,10,yes,no,,,
+pulihora,ginger,tempering,½ teaspoon ginger finely chopped,2,yes,no,,,
+pulihora,curry_leaves,tempering,2 sprigs curry leaves,2,no,no,,,
+pulihora,asafoetida,tempering,1 pinch hing,0.2,no,no,,,
+curd_rice,sona_masoori_rice,main,½ cup rice,100,no,yes,,or ¼ cup white rice ¼ cup brown rice or millets,
+curd_rice,curd_yogurt,main,1 to 1½ cup curd (yogurt),300,no,yes,,,1.25 cup x 245 g
+curd_rice,salt,main,salt as needed,2,no,no,,,
+curd_rice,carrot,veggies,2 tablespoon carrot grated,15,yes,no,,,
+curd_rice,cucumber,veggies,2 tablespoon cucumber grated (or bottle gourd),15,yes,no,,or bottle gourd,
+curd_rice,coriander_leaves,veggies,1 teaspoon coriander leaves,1,yes,no,,,
+curd_rice,cooking_oil,tempering,1 teaspoon oil,4.5,no,no,,,
+curd_rice,mustard_seeds,tempering,½ teaspoon mustard seeds,2,no,no,,,
+curd_rice,cumin_seeds,tempering,½ teaspoon cumin seeds,1,yes,no,,,
+curd_rice,chana_dal,tempering,¾ to 1 teaspoon chana dal,3.5,yes,no,,,
+curd_rice,urad_dal,tempering,¾ to 1 teaspoon urad dal,3.5,yes,no,,,
+curd_rice,dried_red_chilli,tempering,1 dried red chilli broken,0.5,no,no,,,
+curd_rice,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+curd_rice,asafoetida,tempering,1 pinch hing,0.2,no,no,,,
+curd_rice,ginger,tempering,½ teaspoon ginger minced,2,no,no,,,
+curd_rice,green_chilli,tempering,1 green chili,5,yes,no,,,
+curd_rice,cashews,tempering,6 to 8 roasted cashews,10,yes,no,,,
+pesarattu,green_moong_whole,batter,1 cup whole moong beans (green gram),200,no,yes,,,1 cup x 200 g
+pesarattu,ginger,batter,¾ inch ginger piece,4,no,no,,,
+pesarattu,green_chilli,batter,2 green chilies,10,no,no,,,
+pesarattu,cumin_seeds,batter,½ to 1 teaspoon cumin seeds,1.5,no,no,,,
+pesarattu,sona_masoori_rice,batter,1 to 2 tablespoon raw rice (optional - not authentic),20,yes,no,,optional - not authentic,
+pesarattu,salt,batter,¼ teaspoon salt,1.5,no,no,,,
+pesarattu,ghee,cooking,2 tablespoons ghee (or oil),26,no,no,C,or oil,
+pesarattu,cooking_oil,cooking,2 tablespoons oil (alternative to ghee),26,no,no,C,alternative to ghee,
+pesarattu,onion,topping,2 medium onions (about ¾ cup chopped),110,yes,no,,,
+gongura_pachadi,gongura_leaves,main,2 cups red sorrel leaves or gongura tightly packed,100,no,yes,,,2 packed cups ~ 100 g (estimate)
+gongura_pachadi,onion,main,1 large onion,150,no,no,,,
+gongura_pachadi,green_chilli,main,3 to 4 green chilies,17.5,no,no,,,
+gongura_pachadi,salt,main,salt to taste,4,no,no,,,
+gongura_pachadi,cooking_oil,tempering,2 tablespoons oil,27,no,no,,,
+gongura_pachadi,garlic,tempering,2 garlic cloves crushed,8,no,no,,,
+gongura_pachadi,mustard_seeds,tempering,¼ teaspoon mustard,1,no,no,,,
+gongura_pachadi,cumin_seeds,tempering,¼ teaspoon cumin,0.5,no,no,,,
+gongura_pachadi,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+gongura_pachadi,dried_red_chilli,tempering,1 dried red chili,0.5,no,no,,,
+gongura_pachadi,curd_chillies,tempering,4 to 8 Majjiga Mirapakayalu (curd chilies),6,yes,no,,,
+gongura_pachadi,vadiyalu,tempering,Vadiyalu as needed (minapa or pesara),10,yes,no,,,
+avial,ash_gourd,veggies,1 cup chopped ash gourd,130,no,no,,,1 cup x 130 g
+avial,pumpkin,veggies,1 cup chopped pumpkin,130,no,no,,,
+avial,drumstick,veggies,1 cup chopped drumsticks or 1 to 2 drumsticks,105,no,no,,,
+avial,elephant_foot_yam,veggies,1 cup chopped elephant foot yam,130,no,no,,,
+avial,mangalore_cucumber,veggies,1 cup chopped mangalore cucumber,130,no,no,,,
+avial,raw_banana,veggies,1 cup chopped plantain (raw unripe banana),130,no,no,,,
+avial,french_beans,veggies,½ cup chopped french beans,50,no,no,,,
+avial,fresh_grated_coconut,coconut_paste,1 cup fresh grated coconut,100,no,yes,,,
+avial,green_chilli,coconut_paste,2 to 3 green chilies,12.5,no,no,,,
+avial,cumin_seeds,coconut_paste,1 teaspoon cumin,2,no,no,,,
+avial,curd_yogurt,other,1 cup curd (yogurt) beaten,245,no,yes,,,
+avial,curry_leaves,other,12 to 15 curry leaves,1,no,no,,,
+avial,coconut_oil,other,1 to 2 tablespoons coconut oil,20,no,yes,,,
+gutti_vankaya_kura,dried_red_chilli,stuffing,4 to 6 dried red chilies (or 1 tsp red chili powder),2.5,no,no,,or 1 tsp red chili powder,
+gutti_vankaya_kura,peanuts,stuffing,¼ cup peanuts,36,no,yes,,,
+gutti_vankaya_kura,fresh_grated_coconut,stuffing,2 tablespoons raw coconut (or unsweetened shredded coconut),12,no,no,,or use unsweetened shredded coconut,
+gutti_vankaya_kura,sesame_seeds_white,stuffing,1 to 2 tablespoons white sesame seeds,13.5,yes,no,,,
+gutti_vankaya_kura,coriander_seeds,stuffing,1 tablespoon coriander seeds (or use ground),5,no,no,,or use ground,
+gutti_vankaya_kura,cumin_seeds,stuffing+tempering,¾ tsp (stuffing) + ½ tsp (tempering),2.5,no,no,,or use ground,
+gutti_vankaya_kura,cinnamon,stuffing,1 inch cinnamon piece,1,no,no,,,
+gutti_vankaya_kura,cloves,stuffing,3 cloves,0.3,no,no,,,
+gutti_vankaya_kura,green_cardamom,stuffing,2 green cardamom,0.4,no,no,,,
+gutti_vankaya_kura,salt,stuffing+main,½ tsp + ¼ tsp salt,4.5,no,no,,,
+gutti_vankaya_kura,brinjal_small,main,4 to 6 brinjals (young eggplants),250,no,yes,,,5 x 50 g
+gutti_vankaya_kura,ginger_garlic_paste,main,1 teaspoon ginger garlic paste,5,no,no,,or ¾ teaspoon each grated,
+gutti_vankaya_kura,onion,main,¾ cup (1 small) onions,70,no,no,,,
+gutti_vankaya_kura,tomato,main,½ cup (1 small) tomato chopped (omit if you don't like),80,yes,no,,omit if you don't like,
+gutti_vankaya_kura,green_chilli,main,1 to 2 green chilies slit,7.5,no,no,,,
+gutti_vankaya_kura,lemon,main,1 to 1½ tablespoon lemon juice or tamarind paste,30,no,no,F,or tamarind paste,~half a lemon
+gutti_vankaya_kura,tamarind,main,tamarind paste (alternative to lemon juice),10,no,no,F,alternative to lemon juice,
+gutti_vankaya_kura,curry_leaves,tempering,1 sprig curry leaves,1,no,no,,,
+gutti_vankaya_kura,mustard_seeds,tempering,¼ teaspoon mustard seeds,1,no,no,,,
+gutti_vankaya_kura,cooking_oil,main,2 to 3 tablespoons oil,34,no,no,,,
+gutti_vankaya_kura,turmeric_powder,main,⅛ teaspoon turmeric,0.4,no,no,,,
+gutti_vankaya_kura,coriander_leaves,garnish,2 tablespoons coriander leaves,2,no,no,,,

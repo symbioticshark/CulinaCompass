@@ -1,0 +1,19 @@
+{
+  "scenarios": 32,
+  "constraint_adherence": 1.0,
+  "dish_fidelity": 1.0,
+  "task_success": 1.0,
+  "substitution_acceptability": 1.0,
+  "substitutions_proposed": 18,
+  "substitutions_unjudged": 0,
+  "flag_recall": 1.0,
+  "availability_overclaims": 0,
+  "false_alarms": 5,
+  "run": "agent_qwen_v2c",
+  "seconds": 938.3,
+  "usage": {
+    "prompt_tokens": 730477,
+    "completion_tokens": 76131,
+    "requests": 173
+  }
+}
