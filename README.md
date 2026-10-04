@@ -13,7 +13,7 @@ It is stdlib-only Python 3.10+. The LLM runs through OpenRouter. The key is read
 | Read this | For |
 |---|---|
 | `docs/PRODUCT.md` | persona, input, output, architecture diagram, metrics targeted vs reached |
-| `../CulinaCompass_Report.docx` | the written report: reasoning, results, critique, future path |
+| `docs/REPORT.docx` | the written report: reasoning, results, critique, future path |
 | `docs/DATA_CARD.md` | the data: sources, grading rules, limitations |
 | `docs/EVAL_CARD.md` | the evals: scenarios, metrics, every run, how to reproduce |
 

@@ -85,4 +85,4 @@ Targets are the author's original ones: task success 0.85 and constraint adheren
 | How do I run it? | `README.md` |
 | What data, and how good is it? | `docs/DATA_CARD.md` |
 | How is it evaluated? | `docs/EVAL_CARD.md` |
-| What did I conclude? | `../CulinaCompass_Report.docx` |
+| What did I conclude? | `docs/REPORT.docx` |

@@ -1,6 +1,6 @@
 # CulinaCompass SG: Eval Card
 
-How the agent is tested, what each number means, and how to reproduce every row. Companion to `DATA_CARD.md` (the data) and the report, `../CulinaCompass_Report.docx` (the interpretation).
+How the agent is tested, what each number means, and how to reproduce every row. Companion to `DATA_CARD.md` (the data) and the report, `docs/REPORT.docx` (the interpretation).
 
 ## 1. What is being tested
 
